@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Sambit Praharaj
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,7 +72,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "sambit.praharaj[AT]ou[DOT]nl"
+  email: "sambit[DOT]praharaj[AT]ou[DOT]nl"
   linkedin: sambitpraharaj
   github: sambit2
   twitter: sambitillumina
@@ -105,7 +105,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-123273382-1"
 
 # Google Tag Manager ID
 #gtm: ""
