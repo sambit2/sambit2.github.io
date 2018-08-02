@@ -26,9 +26,9 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 </p>
 <p>
  <a class="twitter-timeline"
- href="https://twitter.com/CharlotteHase"
- data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
+ href="https://twitter.com/Sambitillumina"
+ data-widget-id="539487832448843776"
+ data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@Sambitillumina)</a>
  <script>
 						!function(d, s, id) {
 							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
