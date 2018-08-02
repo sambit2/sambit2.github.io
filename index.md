@@ -6,24 +6,7 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 
 ## News
 - I attended Summer School in Albania
-<p>
- href="https://twitter.com/Sambitillumina"
- data-widget-id="539487832448843776"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@Sambitillumina)</a>
- <script>
-						!function(d, s, id) {
-							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
-									.test(d.location) ? 'http' : 'https';
-							if (!d.getElementById(id)) {
-								js = d.createElement(s);
-								js.id = id;
-								js.src = p
-										+ "://platform.twitter.com/widgets.js";
-								fjs.parentNode.insertBefore(js, fjs);
-							}
-						}(document, "script", "twitter-wjs");
- </script>
-</p>
+<p> <a class="twitter-timeline" href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw">Tweets by SambitIllumina</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
 <p>
  <a class="twitter-timeline"
  href="https://twitter.com/Sambitillumina"
