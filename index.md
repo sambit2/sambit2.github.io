@@ -17,11 +17,13 @@ Since 2017, I am working as a PhD researcher at TELI group in Welten Institute, 
 
 ```
 Open Universiteit - TELI, Welten Institute, PenOW
-PO Box 
-Heerlen, Valkenburgerweg 177
+Valkenburgerweg 177, 6419 AT
 The Netherlands
 
-Office: 
+Office: Chiba building
+Valkenburgerweg 177, 6419 AT
+The Netherlands
 Email: sambit[DOT]praharaj[AT]ou[DOT]nl or sambit_praharaj[AT]yahoo[DOT]com
+
 ```
 
