@@ -5,11 +5,11 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
-- **[September 2018]** I will attend the ECTEL conference in Leeds, UK to participate in the Doctoral Consortium, 
-- **[August, 2018]** I will submit a literature survey centred around the theme of Multimodal Learning Analytics in Co-located Collaboration to the MDPI MTI journal special issue
-- **[June 2018]** My first full research paper and doctoral consortium paper during my PhD was accepted at ECTEL Conference
-- **[May 2018]** I attended Joint Technology Enhanced Learning Summer School in Albania and organized a Design-Swarm Workshop to identify the indicators of Co-located Collaboration and visualization techniques to support it in real-time
-- **[Febraury 2018]** I attended the SIKS course on Signal Processing and.... in Noordwijk, Netherlands
+- **[September 2018]** I will attend the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK to participate in the Doctoral Consortium, present my PhD research also as a poster and present a full research paper titled as **"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**
+- **[August 2018]** I will submit a literature survey centred around the theme of **"Multimodal Learning Analytics in Co-located Collaboration"** to the <a href="http://www.mdpi.com/journal/mti/special_issues/User_Interfaces_Modelling_Development">MDPI MTI</a> journal special issue
+- **[June 2018]** My first full research paper and doctoral consortium paper during my PhD was accepted at <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> and will be published in Springer LNCS proceedings in September, 2018
+- **[May 2018]** I attended the <a href="http://ea-tel.eu/jtelss/jtelss2018/">Joint Technology Enhanced Learning Summer School</a> (organized by <a href="http://ea-tel.eu/">European Association of Technology Enhanced Learning</a>) in Albania and organized a Design-Swarm Workshop to identify the indicators of Co-located Collaboration and visualization techniques to support it in real-time and wrote a <a href="">blog post</a> about the outcomes of the workshop. I have also documented my experience of attending the summer school in a short <a href="">blog post</a>
+- **[March 2018]** I attended the <a href="https://www.4tu.nl/ht/en/events/winter-school-2018/">SIKS Winterschool</a> on Affective Computing and Social Signal Processing in <a href="https://en.wikipedia.org/wiki/Noordwijk">Noordwijk</a>, Netherlands and summarized my experience in a short <a href="">blog post</a>
 
 <a class="twitter-timeline" data-height="800" href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw">Tweets by SambitIllumina</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -29,10 +29,11 @@ The Netherlands
 
 Office: Chiba building
 Valkenburgerweg 177, 6419 AT
-heerlen
+Heerlen
 The Netherlands
 Email: sambit[DOT]praharaj[AT]ou[DOT]nl or sambit_praharaj[AT]yahoo[DOT]com
 
 ```
 
-## 
+## Experience
+- **[June 2018]** Reviewed 3 papers (consisting of two short and one long paper) for <a href="https://icmi.acm.org/2018/">ICMI</a>, 2018
