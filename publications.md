@@ -6,7 +6,8 @@ title:  Publications
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>.
 
 ## 2018
-
+<img src="../img/conference-paper.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Multimodal Analytics for Real-time Feedback in Co-located Collaboration*, accepted at <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>.
 
 ## 2017
 <img src="../img/conference-paper.png" height="20px">
