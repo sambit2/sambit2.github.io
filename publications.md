@@ -15,4 +15,4 @@ Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Cl
 
 ## 2016
 <img src="../img/book-chapter.png" height="20px">
-Andri Rahmadhani, Jesse Kaptein, Sambit Praharaj and Shashwat Verma.*<a href="https://delftswa.gitbooks.io/desosa2016/content/ember.js/chapter.html">Delft Students on Software Architecture: DESOSA 2016: Ember.js</a>*, published at <a href="https://delftswa.gitbooks.io/desosa2016/content/">Delft Students on Software Architecture: DESOSA 2016</a>
+Andri Rahmadhani, Jesse Kaptein, Sambit Praharaj and Shashwat Verma. *<a href="https://delftswa.gitbooks.io/desosa2016/content/ember.js/chapter.html">Delft Students on Software Architecture: DESOSA 2016: Ember.js</a>*, published at <a href="https://delftswa.gitbooks.io/desosa2016/content/">Delft Students on Software Architecture: DESOSA 2016</a>
