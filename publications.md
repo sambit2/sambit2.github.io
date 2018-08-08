@@ -14,4 +14,5 @@ Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Multimoda
 Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *<a href="https://dl.acm.org/citation.cfm?id=3079671">Measuring Student Behaviour Dynamics in a Large Interactive Classroom Setting</a>*, published at <a href="https://dl.acm.org/citation.cfm?id=3027144">ACM UMAP 2017</a>. 
 
 ## 2016
-
+<img src="../img/book-chapter.png" height="20px">
+Andri Rahmadhani, Jesse Kaptein, Sambit Praharaj and Shashwat Verma.*<a href="https://delftswa.gitbooks.io/desosa2016/content/ember.js/chapter.html">Delft Students on Software Architecture: DESOSA 2016: Ember.js</a>*, published at <a href="https://delftswa.gitbooks.io/desosa2016/content/">Delft Students on Software Architecture: DESOSA 2016</a>
