@@ -7,7 +7,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2018
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Multimodal Analytics for Real-time Feedback in Co-located Collaboration*, accepted at <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>.
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://rd.springer.com/chapter/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>.
 
 ## 2017
 <img src="../img/conference-paper.png" height="20px">
