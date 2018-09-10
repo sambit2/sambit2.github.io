@@ -5,9 +5,11 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
-- **[September 2018]** I will attend the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK to participate in the Doctoral Consortium, present my PhD research also as a poster and present a full research paper titled as **"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**. Join us in the discussion <a href="http://halley.exp.sis.pitt.edu/cn3/presentation2.php?presentationID=11915&conferenceID=156">here</a>.
-- **[August 2018]** My first full research paper during PhD titled as **"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"** is published in the Springer LNCS proceedings. You can download from <a href="https://link.springer.com/chapter/10.1007/978-3-319-98572-5_15">here</a>
-- **[August 2018]** Successfully defended one year of my PhD review with <a href="http://www.bertrandschneider.com/">Bertrand Schneider</a>, <a href="https://scholar.google.com/citations?user=QSc6dJ4AAAAJ&hl=en">Roland Klemke</a> and <a href="https://scholar.google.nl/citations?user=MrnK0FYAAAAJ&hl=en">Karel Kreijns</a> in the review panel
+- **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>
+- **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented my research in the doctoral consortium which can be found <a href ="https://bit.ly/2NZidM0">here</a>. I also made a <a href="https://api.ltb.io/show/BOFQL">poster</a> for the same
+- **[August 2018]** I Co-edited the <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL</a> <a href="http://ceur-ws.org/Vol-2193/">Practitioner Track Proceedings</a>, 2018
+- **[August 2018]** My first full research paper during PhD titled as **"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"** is published in the <a href="https://link.springer.com/chapter/10.1007/978-3-319-98572-5_15">Springer LNCS proceedings</a>
+- **[August 2018]** I successfully defended my one year PhD review with <a href="http://www.bertrandschneider.com/">Bertrand Schneider</a>, <a href="https://scholar.google.com/citations?user=QSc6dJ4AAAAJ&hl=en">Roland Klemke</a> and <a href="https://scholar.google.nl/citations?user=MrnK0FYAAAAJ&hl=en">Karel Kreijns</a> in the review panel
 - **[June 2018]** My first full research paper and doctoral consortium paper during my PhD was accepted at <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> and will be published in Springer LNCS proceedings in September, 2018
 - **[May 2018]** I attended the <a href="http://ea-tel.eu/jtelss/jtelss2018/">Joint Technology Enhanced Learning Summer School</a> (organized by <a href="http://ea-tel.eu/">European Association of Technology Enhanced Learning</a>) in Albania and organized a Design-Swarm Workshop to identify the indicators of Co-located Collaboration and visualization techniques to support it in real-time and wrote a <a href="">blog post</a> about the outcomes of the workshop. I have also documented my experience of attending the summer school in a short <a href="">blog post</a>
 - **[March 2018]** I attended the <a href="https://www.4tu.nl/ht/en/events/winter-school-2018/">SIKS Winterschool</a> on Affective Computing and Social Signal Processing in <a href="https://en.wikipedia.org/wiki/Noordwijk">Noordwijk</a>, Netherlands and summarized my experience in a short <a href="">blog post</a>
@@ -37,5 +39,5 @@ Email: sambit[DOT]praharaj[AT]ou[DOT]nl or sambit_praharaj[AT]yahoo[DOT]com
 ```
 
 ## Experience
-- **[August 2018]** Co-edited <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL Practitioner Track</a> Proceedings, 2018
+- **[August 2018]** Co-edited the <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL</a> <a href="http://ceur-ws.org/Vol-2193/">Practitioner Track Proceedings</a>, 2018
 - **[June 2018]** Reviewed 3 papers (consisting of two short and one long paper) for <a href="https://icmi.acm.org/2018/">ICMI</a>, 2018
