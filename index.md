@@ -5,7 +5,7 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
-- **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>
+- **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**</a>. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented my research in the doctoral consortium which can be found <a href ="https://bit.ly/2NZidM0">here</a>. I also made a <a href="https://api.ltb.io/show/BOFQL">poster</a> for the same
 - **[August 2018]** I Co-edited the <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL</a> <a href="http://ceur-ws.org/Vol-2193/">Practitioner Track Proceedings</a>, 2018
 - **[August 2018]** My first full research paper during PhD titled as **"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"** is published in the <a href="https://link.springer.com/chapter/10.1007/978-3-319-98572-5_15">Springer LNCS proceedings</a>
