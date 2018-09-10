@@ -3,7 +3,9 @@ layout: page
 title:  Blog
 ---
 
-**[September 2018] EC-TEL 2018, Leeds UK**
+**EC-TEL 2018, Leeds UK**
+
+**(Note: Please skip the first two paragraphs if you want to only read about my experience in the EC-TEL conference itself right from  Day 1)**
 
 It was the 8th of June when I was anxious to hear about the decision of the EC-TEL full research paper acceptance. Finally, all that waiting did not disappoint and soon the nervous energy turned into more of positivity and self-confidence. As a non-European, the first thing to worry now was to get a approved UK Visa! Although it was not much of a hassle, it was the intital road-block separating me from attending the first conference during my first year of my PhD.
 
@@ -15,14 +17,25 @@ After all the preparations, the day i.e., 2nd September arrived and I started my
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally reached my accommodation at university of Leeds after some hustle! Now excited to join <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> <a href="https://twitter.com/hashtag/ECTEL2018?src=hash&amp;ref_src=twsrc%5Etfw">#ECTEL2018</a> <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a> <a href="https://twitter.com/hashtag/sambitphd?src=hash&amp;ref_src=twsrc%5Etfw">#sambitphd</a> <a href="https://t.co/kErSb2Iemv">pic.twitter.com/kErSb2Iemv</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036335617502859264?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-On 3rd September, the EC-TEL conference started with the Doctoral Consortium, 
+On 3rd September, the EC-TEL conference started with the Doctoral Consortium where 16 PhD researchers presented their research which somewhat fit into the broad theme of Technology Enhanced Learning and Learning Analytics. It took place in two rooms. In our room, the topics of research ranged from multimodal analytics, feedback assessment, 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kiced off the doctoral consortium with <a href="https://twitter.com/phish108?ref_src=twsrc%5Etfw">@phish108</a> in <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a> <a href="https://twitter.com/hashtag/dcectel18?src=hash&amp;ref_src=twsrc%5Etfw">#dcectel18</a> <a href="https://t.co/aIAE9cPGgk">pic.twitter.com/aIAE9cPGgk</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036528564974313473?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some presentations during the EC-TEL Doctoral Consortium with <a href="https://twitter.com/phish108?ref_src=twsrc%5Etfw">@phish108</a> <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> <a href="https://twitter.com/hashtag/ectel2018?src=hash&amp;ref_src=twsrc%5Etfw">#ectel2018</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a> <a href="https://twitter.com/hashtag/dcectel18?src=hash&amp;ref_src=twsrc%5Etfw">#dcectel18</a> <a href="https://t.co/QBs2L2eb8c">pic.twitter.com/QBs2L2eb8c</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036669533182943232?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Me explaining the feedback in <a href="https://twitter.com/hashtag/mmla?src=hash&amp;ref_src=twsrc%5Etfw">#mmla</a> during the doctoral consortium in <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> <a href="https://twitter.com/hashtag/dcectel18?src=hash&amp;ref_src=twsrc%5Etfw">#dcectel18</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a> <a href="https://twitter.com/hashtag/ectel2018?src=hash&amp;ref_src=twsrc%5Etfw">#ectel2018</a> <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a> <a href="https://twitter.com/hashtag/phdchat?src=hash&amp;ref_src=twsrc%5Etfw">#phdchat</a> <a href="https://twitter.com/hashtag/sambitphd?src=hash&amp;ref_src=twsrc%5Etfw">#sambitphd</a> <a href="https://t.co/InM2KIiCIc">pic.twitter.com/InM2KIiCIc</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036674627588763650?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Intense discussions about career and academic issues during the final moments of the Doctoral Consortium in <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> with <a href="https://twitter.com/phish108?ref_src=twsrc%5Etfw">@phish108</a> <a href="https://twitter.com/mkalz?ref_src=twsrc%5Etfw">@mkalz</a> <a href="https://twitter.com/houshuang?ref_src=twsrc%5Etfw">@houshuang</a> <a href="https://twitter.com/hashtag/dcectel18?src=hash&amp;ref_src=twsrc%5Etfw">#dcectel18</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a> <a href="https://twitter.com/hashtag/ECTEL2018?src=hash&amp;ref_src=twsrc%5Etfw">#ECTEL2018</a> <a href="https://t.co/zendu75NN0">pic.twitter.com/zendu75NN0</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036675647026933760?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Oh yes, this how you end a doctoral consortium with other attendees and conference members <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> !! <a href="https://twitter.com/hashtag/dcectel18?src=hash&amp;ref_src=twsrc%5Etfw">#dcectel18</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a> <a href="https://twitter.com/hashtag/ECTEL2018?src=hash&amp;ref_src=twsrc%5Etfw">#ECTEL2018</a> <a href="https://twitter.com/hashtag/sambitphd?src=hash&amp;ref_src=twsrc%5Etfw">#sambitphd</a> Great organization by <a href="https://twitter.com/eateleu?ref_src=twsrc%5Etfw">@eateleu</a> <a href="https://twitter.com/mkalz?ref_src=twsrc%5Etfw">@mkalz</a> <a href="https://twitter.com/phish108?ref_src=twsrc%5Etfw">@phish108</a> <a href="https://twitter.com/houshuang?ref_src=twsrc%5Etfw">@houshuang</a> A night to remember and network <a href="https://t.co/Lpp7glfgHq">pic.twitter.com/Lpp7glfgHq</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1036747653105807361?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-**[May 2018]**
 
-
-
-**[March 2018]**
 
 
 
