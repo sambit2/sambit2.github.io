@@ -303,7 +303,7 @@ My full research paper, presentation and other details can be found here:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If anyone missed my presentation in the <a href="https://twitter.com/ECTELconference?ref_src=twsrc%5Etfw">@ECTELconference</a> , you can find my presentation here: <a href="https://t.co/6op63xW87p">https://t.co/6op63xW87p</a><br>Also my paper can be found for downloading here: <a href="https://t.co/D3QrSYcWlZ">https://t.co/D3QrSYcWlZ</a><a href="https://twitter.com/hashtag/ECTEL2018?src=hash&amp;ref_src=twsrc%5Etfw">#ECTEL2018</a> <a href="https://twitter.com/hashtag/ectel18?src=hash&amp;ref_src=twsrc%5Etfw">#ectel18</a><br>Looking forward to a workable version of my prototype in <a href="https://twitter.com/hashtag/ectel2019?src=hash&amp;ref_src=twsrc%5Etfw">#ectel2019</a> <a href="https://t.co/2lgvrBE3lp">https://t.co/2lgvrBE3lp</a></p>&mdash; Sambit Praharaj (@SambitIllumina) <a href="https://twitter.com/SambitIllumina/status/1038413291050213377?ref_src=twsrc%5Etfw">September 8, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+(**Note: This is my first Blog!!**)
 
 
 
