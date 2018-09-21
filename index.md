@@ -40,4 +40,5 @@ Email: sambit[DOT]praharaj[AT]ou[DOT]nl or sambit_praharaj[AT]yahoo[DOT]com
 
 ## Experience
 - **[August 2018]** Co-edited the <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL</a> <a href="http://ceur-ws.org/Vol-2193/">Practitioner Track Proceedings</a>, 2018
+- **[July 2018]** Reviewed 2 Doctoral Consortium papers for <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL</a>, 2018
 - **[June 2018]** Reviewed 3 papers (consisting of two short and one long paper) for <a href="https://icmi.acm.org/2018/">ICMI</a>, 2018
