@@ -9,4 +9,4 @@ It is mostly about sharing my PhD experience with 2 primary objectives:
 2) How you go abroad for Masters/ PhD and related stuff? Also some insights into the Dutch research experience and tips for newcomers.
 
 ### [September 22nd 2018] Introduction video and first video of my channel:
-<iframe width="600" height="480" src="https://www.youtube.com/embed/tU0jQwmMxEo?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/tU0jQwmMxEo?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
