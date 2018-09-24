@@ -5,7 +5,7 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
-- **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose
+- **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose of the channel
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**</a>. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>. The overall experience about attending the EC-TEL conference from my perspective can be found <a href="https://sambit2.github.io/2018-09-11-EC-TEL-Sambit/">here</a>
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented my research in the doctoral consortium which can be found <a href ="https://bit.ly/2NZidM0">here</a>. I also made a <a href="https://api.ltb.io/show/BOFQL">poster</a> for the same
 - **[August 2018]** I Co-edited the <a href="http://www.ec-tel.eu/index.php?id=819">EC-TEL</a> <a href="http://ceur-ws.org/Vol-2193/">Practitioner Track Proceedings</a>, 2018
