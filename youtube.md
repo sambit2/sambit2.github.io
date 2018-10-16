@@ -26,7 +26,7 @@ It is mostly about sharing my PhD experience with 2 primary objectives:
 ## Henceforth, I am attaching the important playlists of the channel which will help you to browse through different themes during my PhD journey and it will also be easier to maintain this page with all the updates!
 
 ### Playlist 1 on my second year PhD weekly vlogs:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/DGSKyVmY59c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/playlist?list=PLrToNHU_lzAjffgfT8derZDq2YwHJIYDl
 
 ### Playlist 2 on my GoPro Hero 7 Black footage of Netherlands:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/lu_jSzFcjvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
