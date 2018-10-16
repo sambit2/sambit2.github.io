@@ -3,7 +3,7 @@ layout: page
 title:  Youtube
 ---
 
-## Here is the <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">link</a> to my channel 
+## Here is the <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">link</a> to my channel: SambitPhD
 It has 2 primary objectives:
 * About PhD life and journey with a peek into my PhD life. Some tips and short interview with advice in each episode.
 * How you go abroad for Masters or PhD and related stuff like compiling a SOP, CV, etc? Also some insights into the Dutch research experience and tips for newcomers.
