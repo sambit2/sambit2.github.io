@@ -26,12 +26,16 @@ It is mostly about sharing my PhD experience with 2 primary objectives:
 ## Henceforth, I am attaching the important playlists of the channel which will help you to browse through different themes during my PhD journey and it will also be easier to maintain this page with all the updates!
 
 ### Playlist 1 on my second year PhD weekly vlogs:
-<iframe id="ytplayer" type="text/html" width="100%" height="405"
-src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjCSbbWCItX8cX3lfz76Po2"
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjffgfT8derZDq2YwHJIYDl"
 frameborder="0" allowfullscreen>
 
 ### Playlist 2 on my GoPro Hero 7 Black footage of Netherlands:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/lu_jSzFcjvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjCSbbWCItX8cX3lfz76Po2"
+frameborder="0" allowfullscreen>
 
 ### Playlist 3 on my Conference, Consortium and other presentations:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/mlET0UU5eXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAiglFzoPjpwucVyxv2f6T54"
+frameborder="0" allowfullscreen>
