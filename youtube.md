@@ -22,3 +22,14 @@ It is mostly about sharing my PhD experience with 2 primary objectives:
 
 ### [October 7th 2018] 5th Vlog on Week 2 PhD, Second year:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/6wCwt2tJ1Wc?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Henceforth, I will attach the important playlists of the channel which will help you to browse through different themes during my PhD journey!
+
+### Playlist 1 on my second year PhD weekly vlogs:
+
+
+### Playlist 2 on my GoPro Hero 7 Black footage of Netherlands:
+<iframe width="340" height="240" src="https://www.youtube.com/embed/lu_jSzFcjvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Playlist 3 on my Conference, Consortium and other presentations:
+
