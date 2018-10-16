@@ -28,14 +28,14 @@ It is mostly about sharing my PhD experience with 2 primary objectives:
 ### Playlist 1 on my second year PhD weekly vlogs:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjffgfT8derZDq2YwHJIYDl"
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen></iframe>
 
 ### Playlist 2 on my GoPro Hero 7 Black footage of Netherlands:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjCSbbWCItX8cX3lfz76Po2"
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen></iframe>
 
 ### Playlist 3 on my Conference, Consortium and other presentations:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAiglFzoPjpwucVyxv2f6T54"
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen></iframe>
