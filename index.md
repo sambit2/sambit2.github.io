@@ -5,6 +5,7 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
+- **[November 2018]** Attended the Conference or <a href="https://www.staff.universiteitleiden.nl/events/2018/11/annual-lta-conference">Education festival</a> in Leiden on 1st November and gained some insights about group dynamics in a higher education classroom from a psychological perspective 
 - **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose of the channel
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**</a>. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>. The overall experience about attending the EC-TEL conference from my perspective can be found <a href="https://sambit2.github.io/2018-09-11-EC-TEL-Sambit/">here</a>
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL Conference</a> in Leeds, UK and presented my research in the doctoral consortium which can be found <a href ="https://bit.ly/2NZidM0">here</a>. I also made a <a href="https://api.ltb.io/show/BOFQL">poster</a> for the same
