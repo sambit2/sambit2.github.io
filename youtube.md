@@ -20,10 +20,7 @@ It has 2 primary objectives:
 ### [October 6th 2018] 4th Vlog on my Full-paper Presentation at EC-TEL Conference, 2018:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/AYPAbEIECBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### [October 7th 2018] 5th Vlog on Week 2 PhD, Second year:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/6wCwt2tJ1Wc?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Henceforth, important playlists that cover the theme of the channel are mentioned below to ease up the search:
+## Henceforth, important playlists that cover different themes of the channel are mentioned below to ease up the search:
 
 ### Playlist 1 on my Second Year PhD weekly vlogs:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
@@ -39,3 +36,14 @@ frameborder="0" allowfullscreen></iframe>
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAiglFzoPjpwucVyxv2f6T54"
 frameborder="0" allowfullscreen></iframe>
+
+### Playlist 4 on Life in Netherlands:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAhhvt7hTr7qQOLC-pLpXpGJ"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 5 on Benefits and allowances for Internationals in Netherlands:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAhQedKUvT9xqWjcPeYtX1-4"
+frameborder="0" allowfullscreen></iframe>
+
