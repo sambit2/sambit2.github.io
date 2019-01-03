@@ -8,19 +8,10 @@ It has 2 primary objectives:
 * About PhD life and journey with a peek into my PhD life. Some tips and short interview with advice in each episode.
 * How you go abroad for Masters or PhD and related stuff like compiling a SOP, CV, etc? Also some insights into the Dutch research experience and tips for newcomers.
 
-### [September 22nd 2018] 1st Vlog on Channel Introduction:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/tU0jQwmMxEo?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+### Vlog on Channel Introduction:
+<iframe width="340" height="240" src="https://www.youtube.com/embed/oNAIvega_Kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [September 30th 2018] 2nd Vlog on Week 1 PhD, Second year:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/DGSKyVmY59c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### [October 5th 2018] 3rd Vlog on my Doctoral Consortium Presentation at EC-TEL Conference, 2018:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/mlET0UU5eXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### [October 6th 2018] 4th Vlog on my Full-paper Presentation at EC-TEL Conference, 2018:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/AYPAbEIECBY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Henceforth, important playlists that cover different themes of the channel are mentioned below to ease up the search:
+## Playlists that cover different themes of the channel are mentioned below to ease up the search:
 
 ### Playlist 1 on my Second Year PhD weekly vlogs:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
