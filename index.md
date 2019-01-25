@@ -5,6 +5,7 @@ subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open U
 ---
 
 ## News
+- **[December 2018]** My first Doctoral Consortium paper during PhD titled as **"MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support"** is published in the <a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">CEUR WS proceedings</a> for <a href ="http://ceur-ws.org/Vol-2294/">DCECTEL 2018</a>
 - **[December 2018]** Attended the Annual general meeting of <a href="https://www.educationandlearning.nl/news/save-the-date-for-our-annual-meeting-on-19-december">CEL (Center for Education and Learning)</a> in Den Haag on 19th Dec, presented a poster on my PhD research and got some valuable feedback about scalability of my research
 - **[November 2018]** Attended the Conference or <a href="https://www.staff.universiteitleiden.nl/events/2018/11/annual-lta-conference">Education festival</a> in Leiden on 1st November and gained some insights about group dynamics in a higher education classroom from a psychological perspective 
 - **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose of the channel
