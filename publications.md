@@ -6,6 +6,9 @@ title:  Publications
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
 
 ## 2018
+<img src="../img/conference-paper.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support</a>*, published at <a href="http://ceur-ws.org/Vol-2294/">CEUR WS</a> in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018 Doctoral Consortium</a>
+
 <img src="../img/editor.png" height="20px">
 Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a href="http://ceur-ws.org/Vol-2193">EC-TEL Practitioner Proceedings 2018: 13th European Conference On Technology Enhanced Learning, Leeds, UK, September 3-6, 2018</a>*, published at CEUR WS in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>
 
