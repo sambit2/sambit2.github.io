@@ -7,10 +7,10 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2019
 <img src="../img/demo-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Group Coach for Co-located Collaboration*, to be published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2019
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Group Coach for Co-located Collaboration*, to be published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2019 [[PDF Preprint→]](../documents/publications/EC-TEL2019-Demo.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
-Chew Lee Teo, Elizabeth Koh, Marlene Scardamalia, Jianwei Zhang, Mei-Hwa Chen, Carol Chan, Sambit Praharaj, Esther Tan, Aloysius Ong. *<a href="">Understanding New Assessment and Environment for Knowledge Building: Triangulating Features of Discourse Platform, Multimodal Learning Analytics and Text-based Learning Analytics</a>*, published at CSCL conference proceedings in <a href="https://cscl2019.com/">CSCL 2019</a>
+Chew Lee Teo, Elizabeth Koh, Marlene Scardamalia, Jianwei Zhang, Mei-Hwa Chen, Carol Chan, Sambit Praharaj, Esther Tan, Aloysius Ong. *Understanding New Assessment and Environment for Knowledge Building: Triangulating Features of Discourse Platform, Multimodal Learning Analytics and Text-based Learning Analytics*, published at CSCL conference proceedings in <a href="https://cscl2019.com/">CSCL 2019</a> [[PDF Preprint→]](../documents/publications/CSCL2019-Workshop.pdf)
 
 ## 2018
 <img src="../img/conference-paper.png" height="20px">
