@@ -5,15 +5,22 @@ title:  Publications
 
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
 
+## 2019
+<img src="../img/demo-paper.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *Group Coach for Co-located Collaboration*, to be published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2019
+
+<img src="../img/workshop-paper.png" height="20px">
+Chew Lee Teo, Elizabeth Koh, Marlene Scardamalia, Jianwei Zhang, Mei-Hwa Chen, Carol Chan, Sambit Praharaj, Esther Tan, Aloysius Ong. *<a href="">Understanding New Assessment and Environment for Knowledge Building: Triangulating Features of Discourse Platform, Multimodal Learning Analytics and Text-based Learning Analytics</a>*, published at CSCL conference proceedings in <a href="https://cscl2019.com/">CSCL 2019</a>
+
 ## 2018
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support</a>*, published at <a href="http://ceur-ws.org/Vol-2294/">CEUR WS</a> in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018 Doctoral Consortium</a>
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support</a>*, published at <a href="http://ceur-ws.org/Vol-2294/">CEUR WS</a> in <a href="http://www.ec-tel.eu/">EC-TEL</a>  2018 Doctoral Consortium
 
 <img src="../img/editor.png" height="20px">
-Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a href="http://ceur-ws.org/Vol-2193">EC-TEL Practitioner Proceedings 2018: 13th European Conference On Technology Enhanced Learning, Leeds, UK, September 3-6, 2018</a>*, published at CEUR WS in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>
+Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a href="http://ceur-ws.org/Vol-2193">EC-TEL Practitioner Proceedings 2018: 13th European Conference On Technology Enhanced Learning, Leeds, UK, September 3-6, 2018</a>*, published at CEUR WS in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018
 
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://rd.springer.com/chapter/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS in <a href="http://www.ec-tel.eu/index.php?id=805">EC-TEL 2018</a>
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://rd.springer.com/chapter/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018
 
 ## 2017
 <img src="../img/book-chapter.png" height="20px">
