@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  PhD Researcher
-subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open Universiteit, Netherlands
+subtitle: Something you must know about me?!
 css: "/css/index.css"
 bigimg:
   - "/img/bigimg/1.jpg" : "My PhD research group, Heerlen (2019)"
