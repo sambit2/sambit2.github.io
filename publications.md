@@ -1,6 +1,12 @@
 ---
 layout: page
-title:  Publications
+title:  PhD Researcher
+subtitle: Where have I published?
+css: "/css/index.css"
+bigimg:
+  - "/img/bigimg/1.jpg" : "My PhD research group, Heerlen (2019)"
+  - "/img/bigimg/2.jpg" : "Indian student Association, Delft (2019)"
+  - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
 ---
 
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
