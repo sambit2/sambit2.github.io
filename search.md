@@ -4,9 +4,9 @@ title: "Search deanattali.com"
 css: "/css/search.css"
 ---
 
-# Search deanattali.com
+# Search sambitpraharaj.com
 
-### Using the Amazing Google
+### Using Google
 
 <div id="google-custom-search">
 <script>
