@@ -3,7 +3,17 @@ layout: page
 title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
+bigimg:
+  - "/img/bigimg/1.jpg" : "My PhD research group, Heerlen (2019)"
+  - "/img/bigimg/2.jpg" : "Indian student Association, Delft (2019)"
 ---
+
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/tutorials" class="list-filter">Tutorials</a>
+  <a href="/tags" class="list-filter">Index</a>
+</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
