@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [conference, blog, EC-TEL, PhD]
 title:  A peek into EC-TEL 2018 through my lens
 ---
 
