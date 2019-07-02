@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  PhD Researcher
-tags: [personal, blog, family]
 subtitle: Curious about my brief academic background?
 css: "/css/index.css"
 bigimg:
