@@ -9,6 +9,23 @@ bigimg:
   - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
 ---
 
+<div id="google-custom-search">
+<script>
+  (function() {
+    var cx = '006073558621733530411:kcpgkwoosby';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox></gcse:searchbox>
+<gcse:searchresults></gcse:searchresults>
+</div>
+
 ## Currently
 
 My name is <a href="https://www.linkedin.com/in/sambitpraharaj/">Sambit Praharaj</a>. Now, I have started my new research adventure as a <b>PhD candidate</b> in the <b>Technology Enhanced Learning Innovations (TELI) </b> group at <a href="https://www.ou.nl/welten-instituut">Welten Institute</a> in <a href="https://www.ou.nl/">Open University</a> of Netherlands from 1st of September. I live in the beautiful city of <a href ="http://www.valkenburg.nl/">Valkenburg</a> sandwiched between Germany and Belgium in near proximity. My promotors are <a href="https://scholar.google.com/citations?user=fC3dymIAAAAJ">Prof. dr. Marcus Specht </a> and <a href="https://scholar.google.com/citations?user=v1hwiRAAAAAJ">Prof. dr. Hendrik Drachsler</a>. Additionally, I have <a href="https://scholar.google.de/citations?user=iI8G4nYAAAAJ&hl=de">Dr. Maren Scheffel</a> as my supportive daily supervisor. My research primarily focuses on the use of Multimodal Learning Analytics (MMLA) in a Co-located Collaboration (CC) scenario. Apart from diving deep into my PhD research, my other plans are to widen my knowledge and experience in Neural networks and Deep Learning by following other courses from Coursera and Udacity. I am also following other books and online resources to get hands-on experience in Scikit and Tensorflow. It can help me to strengthen my PhD research at later stages when I build the prediction models to support CC in real-time. My research interests revolve around Multimodal Learning, Technology Enhanced Learning, AI, Human Computer Interaction, Learning Analytics, Educational sciences and Psychological Behaviour.
