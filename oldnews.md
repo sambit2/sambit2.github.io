@@ -9,6 +9,23 @@ bigimg:
   - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
 ---
 
+<div id="google-custom-search">
+<script>
+  (function() {
+    var cx = '006073558621733530411:kcpgkwoosby';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox></gcse:searchbox>
+<gcse:searchresults></gcse:searchresults>
+</div>
+
 ## Old News
 - **[November 2018]** Attended the Conference or <a href="https://www.staff.universiteitleiden.nl/events/2018/11/annual-lta-conference">Education festival</a> in Leiden on 1st November and gained some insights about group dynamics in a higher education classroom from a psychological perspective 
 - **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose of the channel
