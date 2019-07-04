@@ -24,6 +24,7 @@ bigimg:
 </script>
 <gcse:searchbox></gcse:searchbox>
 <gcse:searchresults></gcse:searchresults>
+</div>
 
 ## Reviewing Experience
 - **[May 2019]** Reviewed 1 research paper from <a href="http://www.ec-tel.eu">EC-TEL</a> (European Conference on Technology Enhanced Learning), 2019 as a sub-reviewer
