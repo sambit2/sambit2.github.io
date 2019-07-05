@@ -1,7 +1,11 @@
 ---
 layout: post
-tags: [conference, blog, EC-TEL, PhD]
+tags: [conference, blog, EC-TEL, PhD, mmla, collaboration]
 title:  A peek into EC-TEL 2018 through my lens
+subtitle: My first Conference memories...
+css: "/css/index.css"
+bigimg:
+  - "/img/EC-TEL2018.jpg" : "Presentation in EC-TEL Conference 2018, Leeds, UK"
 ---
 
 **(Note: Please skip the first two paragraphs if you want to only read about my experience in the EC-TEL conference itself right from  Day 1)**
@@ -303,6 +307,8 @@ My full research paper, presentation and other details can be found here:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (**Note: This is my first Blog!!**)
+
+**PS** Because of privacy concerns, there is no third party comment website but you can leave your THOUGHTS and COMMENTS on LinkedIn and Twitter links below
 
 
 
