@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [conference, blog, EC-TEL, PhD, mmla, collaboration]
+tags: [conference, blog, EC-TEL, PhD, mmla, collaboration, 2018]
 title:  A peek into EC-TEL 2018 through my lens
 subtitle: My first Conference memories...
 css: "/css/index.css"
