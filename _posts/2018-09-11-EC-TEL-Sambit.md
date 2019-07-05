@@ -308,6 +308,14 @@ My full research paper, presentation and other details can be found here:
 
 (**Note: This is my first Blog!!**)
 
+You can also find the Vlogs showing some of experiences and my Doctoral Consortium and Conference presentations below:
+
+<iframe width="340" height="240" src="https://www.youtube.com/embed/6wCwt2tJ1Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="340" height="240" src="https://www.youtube.com/embed/AYPAbEIECBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="340" height="240" src="https://www.youtube.com/embed/mlET0UU5eXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **PS** Because of privacy concerns, there is no third party comment website but you can leave your THOUGHTS and COMMENTS on LinkedIn and Twitter links below
 
 
