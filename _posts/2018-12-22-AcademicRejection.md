@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Academic rejections - It is high time we start talking about it!?
+title:  Academic rejections 
+subtitle: Is it high time we start talking about it!?
+css: "/css/index.css"
+bigimg:
+  - "/img/RejectionBlog.png" : "Rejection analogy to a sinking and sailing ship!"
 ---
-
-<img src="../img/RejectionBlog.png" height = "200px" width = "400px">
 
 Academic rejections can be a nasty blow in your PhD or academic career. But, these rejections should not be considered as roadblocks rather should be considered as the push that helps you to move ahead in your academic or research career if you try to look it from the "half glass full" perspective and focus on the positives only! Saying it is very easy, but doing it for real is not that easy! 
 
