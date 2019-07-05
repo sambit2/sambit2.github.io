@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [academic rejections, blog, PhD]
 title:  Academic rejections 
 subtitle: Is it high time we start talking about it!?
 css: "/css/index.css"
