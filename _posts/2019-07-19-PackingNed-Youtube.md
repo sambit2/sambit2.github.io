@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: [summer school, blog, JTELSS, PhD, Y2019]
-title:  That summer school was one of a kind!
-subtitle: My second summer school memories...
+tags: [NetherlandsArrival, blog, Packing, YouTube, Y2019]
+title:  Things to PACK before coming to Netherlands
+subtitle: All items that you should not forget!...
 css: "/css/index.css"
 bigimg:
   - "/img/bigimg/Packing_Ned.png" : "Youtube thumbnail for the Vlog"
