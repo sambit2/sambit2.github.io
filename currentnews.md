@@ -37,6 +37,6 @@ bigimg:
   <a href="/oldnews" class="list-filter filter-selected">Old News</a>
 </div>
 
-<a href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitIllumina</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-height="800" href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw">Tweets by SambitIllumina</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-height="800" href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw">Tweets by SambitPhD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
