@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search deanattali.com"
+title: "Search sambitpraharaj.com"
 css: "/css/search.css"
 ---
 
