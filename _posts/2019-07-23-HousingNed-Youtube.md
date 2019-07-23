@@ -28,39 +28,39 @@ Housing organizations:
 
 Other housing websites:
 
-https://kamernet.nl/en
+<a href="https://kamernet.nl/en">https://kamernet.nl/en</a>
 
-https://www.pararius.nl/
+<a href="https://www.pararius.nl/">https://www.pararius.nl/</a>
 
-https://www.funda.nl/
+<a href="https://www.funda.nl/">https://www.funda.nl/</a>
 
-https://www.housinganywhere.com/
+<a href="https://www.housinganywhere.com/">https://www.housinganywhere.com/</a>
 
 Rental brokers:
 
-https://www.easymakelaars.nl/
+<a href="https://www.easymakelaars.nl/">https://www.easymakelaars.nl/</a>
 
 Rental brokers in South Netherlands:
 
-https://www.woonhuislimburg.nl/
+<a href="https://www.woonhuislimburg.nl/">https://www.woonhuislimburg.nl/</a>
 
 Facebook groups:
 
-https://www.facebook.com/groups/room.delft/about/
+<a href="https://www.facebook.com/groups/room.delft/about/">https://www.facebook.com/groups/room.delft/about/</a>
 
-https://www.facebook.com/groups/kamer.in.rotterdam/
+<a href="https://www.facebook.com/groups/kamer.in.rotterdam/">https://www.facebook.com/groups/kamer.in.rotterdam/</a>
 
-https://www.facebook.com/groups/116816401678059/
+<a href="https://www.facebook.com/groups/116816401678059/">https://www.facebook.com/groups/116816401678059/</a>
 
-https://www.facebook.com/groups/denhaag.housing/
+<a href="https://www.facebook.com/groups/denhaag.housing/">https://www.facebook.com/groups/denhaag.housing/</a>
 
-https://www.facebook.com/groups/251441185632701/
+<a href="https://www.facebook.com/groups/251441185632701/">https://www.facebook.com/groups/251441185632701/</a>
 
-https://www.facebook.com/groups/347706952080686/
+<a href="https://www.facebook.com/groups/347706952080686/">https://www.facebook.com/groups/347706952080686/</a>
 
-https://www.facebook.com/groups/StudentTradeGroningen/
+<a href="https://www.facebook.com/groups/StudentTradeGroningen/">https://www.facebook.com/groups/StudentTradeGroningen/</a>
 
-https://www.facebook.com/groups/40628214075/
+<a href="https://www.facebook.com/groups/40628214075/">https://www.facebook.com/groups/40628214075/</a>
 
 
 The Vlog on searching, renting and subletting a house in the Netherlands:
