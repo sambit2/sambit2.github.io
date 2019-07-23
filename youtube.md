@@ -8,7 +8,7 @@ bigimg:
   - "/img/bigimg/youtubeintro.jpg" : "YouTube Intro, Valkenburg (2018)"
 ---
 
-<a href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitIllumina</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Here is the <a href="https://www.youtube.com/sambitphd">link</a> to my channel: SambitPhD
 It has 2 primary objectives:
