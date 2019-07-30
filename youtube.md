@@ -18,6 +18,14 @@ It has 2 primary objectives:
 ### Vlog on Channel Introduction:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/oNAIvega_Kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8842338021751829",
+          enable_page_level_ads: true
+     });
+</script>
+
 ## Playlists in the channel:
 
 ### Playlist 1 on my Second Year PhD weekly vlogs:
