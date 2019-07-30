@@ -11,6 +11,14 @@ bigimg:
 
 <a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8842338021751829",
+          enable_page_level_ads: true
+     });
+</script>
+
 <div id="google-custom-search">
 <script>
   (function() {
