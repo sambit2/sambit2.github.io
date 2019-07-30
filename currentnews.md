@@ -26,6 +26,14 @@ bigimg:
 <gcse:searchresults></gcse:searchresults>
 </div>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8842338021751829",
+          enable_page_level_ads: true
+     });
+</script>
+
 ## Recent News
 - **[June 2019]** Organized a workshop ([[PDF Preprint→]](../documents/publications/CSCL2019-Workshop.pdf)) with <a href ="https://www.nie.edu.sg/">NIE</a>, NTU Singapore, Toronto University, Canada and Suny Albany, USA at <a href="https://cscl2019.com/">CSCL</a> (Computer Supported Collaborative Learning), 2019 conference at ENS Lyon, France
 - **[June 2019]** <a href="http://www.ec-tel.eu/">EC-TEL</a> 2019 demo paper ([[PDF Preprint→]](../documents/publications/EC-TEL2019-Demo.pdf)) accepted and will be published in Springer LNCS proceedings in September, 2019.
