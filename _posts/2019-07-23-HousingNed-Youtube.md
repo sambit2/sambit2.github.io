@@ -4,6 +4,7 @@ tags: [NetherlandsArrival, blog, Housing, YouTube, Y2019]
 title:  Searching, renting and subletting house in Netherlands
 subtitle: All about housing in Netherlands...
 css: "/css/index.css"
+share-img: "/img/bigimg/Housing_Ned.png"
 bigimg:
   - "/img/bigimg/Housing_Ned.png" : "Youtube thumbnail for the Vlog"
 ---
