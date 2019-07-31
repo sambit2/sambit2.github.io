@@ -23,4 +23,4 @@ Depending on the documents you need to carry, try to have 2-3 set of hard copies
 The Vlog on the things that you need to pack before arriving in Netherlands:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/CGNHJe1gfPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**PS:** Please leave your THOUGHTS and COMMENTS on YouTube, LinkedIn and Twitter links below
+**PS:** Please leave your THOUGHTS and COMMENTS below
