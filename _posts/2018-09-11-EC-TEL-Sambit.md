@@ -316,7 +316,7 @@ You can also find the Vlogs showing some of experiences and my Doctoral Consorti
 
 <iframe width="340" height="240" src="https://www.youtube.com/embed/mlET0UU5eXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**PS** Because of privacy concerns, there is no third party comment website but you can leave your THOUGHTS and COMMENTS on LinkedIn and Twitter links below
+**PS** Please leave your THOUGHTS and COMMENTS below
 
 
 
