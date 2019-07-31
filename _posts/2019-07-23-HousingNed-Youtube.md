@@ -66,4 +66,4 @@ Facebook groups:
 The Vlog on searching, renting and subletting a house in the Netherlands:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/C2hOsnv_FRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**PS:** Please leave your THOUGHTS and COMMENTS on YouTube, LinkedIn and Twitter links below
+**PS:** Please leave your THOUGHTS and COMMENTS below
