@@ -49,7 +49,7 @@ avatar: "/img/sambit_new.jpg"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#FFB6C1"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -123,7 +123,7 @@ google_analytics: "UA-123273382-1"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "https-sambitpraharaj-com"
 
 # Facebook App ID
 # fb_app_id: ""
