@@ -40,7 +40,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2019
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj. *Co-located Collaboration Analytics*, published at <a href="">ACM ICMI 2019</a> proceedings in the Doctoral Consortium
+Sambit Praharaj. *<a href="">Co-located Collaboration Analytics</a>*, published at <a href="http://icmi.acm.org/2019/">ACM ICMI 2019</a> proceedings in the Doctoral Consortium
 
 <img src="../img/demo-paper.png" height="20px">
 Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://link.springer.com/chapter/10.1007/978-3-030-29736-7_77">Group Coach for Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL 2019</a> [[PDF Preprint→]](../documents/publications/EC-TEL2019-Demo.pdf) 
