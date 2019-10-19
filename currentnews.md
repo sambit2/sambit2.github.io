@@ -35,6 +35,11 @@ bigimg:
 </script>
 
 ## Recent News
+- **[October 2019]** Attend ICMI DC [UNDER CONSTRUCTION]
+- **[October 2019]** Organize workshop with CEL LDE and NIE at Erasmus Rotterdam [UNDER CONSTRUCTION]
+- **[September 2019]** Demo EC-TEL published and presented [UNDER CONSTRUCTION]
+- **[September 2019]** Started collaboration with TU Delft, CEL and NIE [UNDER CONSTRUCTION]
+- **[August 2019]** Very happy that my DC paper [UNDER CONSTRUCTION]
 - **[June 2019]** Organized a workshop ([[PDF Preprint→]](../documents/publications/CSCL2019-Workshop.pdf)) with <a href ="https://www.nie.edu.sg/">NIE</a>, NTU Singapore, Toronto University, Canada and Suny Albany, USA at <a href="https://cscl2019.com/">CSCL</a> (Computer Supported Collaborative Learning), 2019 conference at ENS Lyon, France
 - **[June 2019]** <a href="http://www.ec-tel.eu/">EC-TEL</a> 2019 demo paper ([[PDF Preprint→]](../documents/publications/EC-TEL2019-Demo.pdf)) accepted and will be published in Springer LNCS proceedings in September, 2019.
 - **[June 2019]** Organized 2 workshops at <a href="https://ea-tel.eu/jtelss/jtelss2019/">JTELSS</a> (Joint Technology Enhanced Learning Summer School), 2019 managed by <a href="https://ea-tel.eu/">EATEL</a> (European Association for Technology Enhanced Learning) in Bari, Italy
