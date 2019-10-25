@@ -40,7 +40,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2019
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj. *<a href="">Co-located Collaboration Analytics</a>*, published at <a href="http://icmi.acm.org/2019/">ACM ICMI 2019</a> proceedings in the Doctoral Consortium
+Sambit Praharaj. *<a href="https://dl.acm.org/citation.cfm?id=3340555.3356087">Co-located Collaboration Analytics</a>*, published at <a href="http://icmi.acm.org/2019/">ACM ICMI 2019</a> proceedings in the Doctoral Consortium. The presentation slides can be found *<a href="https://www.slideshare.net/SambitPraharaj/colocated-collaboration-analytics">here</a>.
 
 <img src="../img/demo-paper.png" height="20px">
 Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://link.springer.com/chapter/10.1007/978-3-030-29736-7_77">Group Coach for Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL 2019</a> [[PDF Preprint→]](../documents/publications/EC-TEL2019-Demo.pdf) 
@@ -50,13 +50,13 @@ Chew Lee Teo, Elizabeth Koh, Marlene Scardamalia, Jianwei Zhang, Mei-Hwa Chen, C
 
 ## 2018
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support</a>*, published at <a href="http://ceur-ws.org/Vol-2294/">CEUR WS</a> in <a href="http://www.ec-tel.eu/">EC-TEL 2018</a> Doctoral Consortium
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="http://ceur-ws.org/Vol-2294/DCECTEL2018_paper_14.pdf">MULTIFOCUS: MULTImodal Learning Analytics FOr Co-located Collaboration Understanding and Support</a>*, published at <a href="http://ceur-ws.org/Vol-2294/">CEUR WS</a> in <a href="http://www.ec-tel.eu/">EC-TEL 2018</a> Doctoral Consortium. The presentation slides can be found *<a href="https://www.slideshare.net/SambitPraharaj/multimodal-learning-analytics-for-collaborative-learning-understanding-and-support">here</a>.
 
 <img src="../img/editor.png" height="20px">
 Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a href="http://ceur-ws.org/Vol-2193">EC-TEL Practitioner Proceedings 2018: 13th European Conference On Technology Enhanced Learning, Leeds, UK, September 3-6, 2018</a>*, published at CEUR WS in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018
 
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://rd.springer.com/chapter/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://rd.springer.com/chapter/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018. The presentation slides can be found *<a href="https://www.slideshare.net/SambitPraharaj/multimodal-analytics-for-realtime-feedback-in-colocated-collaboration-ectel-2018">here</a>.
 
 ## 2017
 <img src="../img/book-chapter.png" height="20px">
