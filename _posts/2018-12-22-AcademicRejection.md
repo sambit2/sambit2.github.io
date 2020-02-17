@@ -3,6 +3,8 @@ layout: post
 tags: [academic rejections, blog, PhD, Y2018]
 title:  Academic rejections 
 subtitle: Is it high time we start talking about it!?
+image: https://www.sambitpraharaj.com/img/bigimg/RejectionBlog.png
+share-img: https://www.sambitpraharaj.com/img/bigimg/RejectionBlog.png
 css: "/css/index.css"
 bigimg:
   - "/img/bigimg/RejectionBlog.png" : "Rejection analogy to a sinking and sailing ship!"
