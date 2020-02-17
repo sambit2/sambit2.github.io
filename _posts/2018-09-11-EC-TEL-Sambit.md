@@ -2,7 +2,10 @@
 layout: post
 tags: [conference, blog, EC-TEL, PhD, mmla, collaboration, Y2018]
 title:  A peek into EC-TEL 2018 through my lens
-image: https://sambitpraharaj.com//img/bigimg/EC-TEL2018.JPG
+subtitle: My first Conference memories...
+css: "/css/index.css"
+bigimg:
+  - "/img/bigimg/EC-TEL2018.JPG" : "Presentation in EC-TEL Conference 2018, Leeds, UK"
 ---
 
 **(Note: Please skip the first two paragraphs if you want to only read about my experience in the EC-TEL conference itself right from  Day 1)**
