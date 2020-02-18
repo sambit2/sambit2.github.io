@@ -38,6 +38,14 @@ bigimg:
 
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
 
+## 2020
+<img src="../img/conference-paper.png" height="20px">
+Haoyu Chen, Esther Tan, Yoon Lee, Sambit Praharaj, Marcus Specht, Guoying Zhao. *Developing AI into Explanatory Supporting Models: An
+Explanation-visualized Deep Learning Prototype*, will be published at ICLS conference proceedings in <a href="https://icls2020.org/">ICLS 2020</a> [[PDF Preprint→]](../documents/publications/ISLSConference_Submission2020_Final.pdf)
+
+<img src="../img/demo-paper.png" height="20px">
+Yoon Lee, Haoyu Chen, Esther Tan, Sambit Praharaj, Marcus Specht. *FLOWer: Feedback Loop for Group Work Supporter*, will be published at LAK conference companion proceedings in <a href="https://lak20.solaresearch.org/">LAK 2020</a> [[PDF Preprint→]](../documents/publications/LAK20_Demo_paper_Final.pdf)
+
 ## 2019
 <img src="../img/conference-paper.png" height="20px">
 Sambit Praharaj. *<a href="https://dl.acm.org/citation.cfm?id=3340555.3356087">Co-located Collaboration Analytics</a>*, published at <a href="http://icmi.acm.org/2019/">ACM ICMI 2019</a> proceedings in the Doctoral Consortium. The presentation slides can be found <a href="https://www.slideshare.net/SambitPraharaj/colocated-collaboration-analytics">here</a>.
