@@ -1,4 +1,4 @@
-# My personal and academic website is built on the beautiful Jekyll theme of Dean Attali. I also blog here which is related to my PhD experiences and my YouTube vlog experiences! My YouTube channel: SambitPhD 
+# My personal and academic website is built on the beautiful Jekyll theme of Dean Attali. I also blog here which is related to my PhD experiences and my YouTube vlog experiences! My YouTube channel: [SambitPhD](https://youtube.com/sambitphd)
 # Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
