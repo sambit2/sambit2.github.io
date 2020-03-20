@@ -22,18 +22,29 @@ Based on my experience, part time jobs can be of 2 types: Outside of campus and 
 I will share some experiences of my friends who worked part-time in on-campus jobs such as student assistants. It is not easy to get a student assistant job as they are few and also not easy to balance your course-work load with the part-time job! I will do short interviews later may be after 3-4 months with some people who have done part-time jobs in the past. But, for now I will share only some experiences! Please check the Vlog below where I showed some of the experiences. You can also find this part-time job experience links at the end of the blog below! Moreover, you can work part-time in different international offices and introduction program of the universities. The IP or introduction program is very selective and can easily give you a few bucks like around 2000 Eur in only 2 weeks of work and around 3-4 weeks of preparation! A dirt-cheap way to earn few extra bucks. Isn’t it?
 
 Part-time jobs vacancy and information links:
+
 <a href="https://undutchables.nl/">https://undutchables.nl/</a>
+
 <a href="https://netherlands.expatjobs.eu/Part-Time-Jobs/1">https://www.indeed.nl/Engels-Part-Time-vacatures</a>
+
 <a href="https://www.indeed.nl/Engels-Part-Time-vacatures">https://www.indeed.nl/Engels-Part-Time-vacatures</a>
+
 <a href="https://www.studentjob.nl/">https://www.studentjob.nl/</a>
+
 <a href="https://ec.europa.eu/eures/public/en/homepage">https://ec.europa.eu/eures/public/en/homepage</a>
+
 <a href="https://www.togetherabroad.nl/index.php/page/advsearchvacs/bb/1/command/startupresults&cms_categorie=77673">https://www.togetherabroad.nl/index.php/page/advsearchvacs/bb/1/command/startupresults&cms_categorie=77673</a>
 
 Some testimonial and experiences of working part-time:
+
 <a href="https://www.studyinholland.nl/life-in-holland/student-life">https://www.studyinholland.nl/life-in-holland/student-life</a>
+
 <a href="https://www.studyinholland.nl/stories/all-stories/can-you-work-while-studying-in-the-netherlands">https://www.studyinholland.nl/stories/all-stories/can-you-work-while-studying-in-the-netherlands</a>
+
 <a href="https://www.maastrichtuniversity.nl/support/during-your-studies/money-matters/working-addition-your-study/student-jobs-um">https://www.maastrichtuniversity.nl/support/during-your-studies/money-matters/working-addition-your-study/student-jobs-um</a>
+
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/tothelabormarket/parttime?utm_source=brochure&utm_medium=print&utm_campaign=brochures_international_students">https://www.tilburguniversity.edu/students/career/student-career-services/tothelabormarket/parttime?utm_source=brochure&utm_medium=print&utm_campaign=brochures_international_students</a>
+
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies">https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies</a>
 
 The VLOG on everything about part-time jobs, salary, internships in Netherlands:
