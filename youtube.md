@@ -36,7 +36,7 @@ It has 2 primary objectives:
 
 ## Playlists in the channel:
 
-### Playlist 1 on my Second Year PhD weekly vlogs:
+### Playlist 1 on my My weekly PhD vlogs in Netherlands:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjffgfT8derZDq2YwHJIYDl"
 frameborder="0" allowfullscreen></iframe>
@@ -86,8 +86,43 @@ frameborder="0" allowfullscreen></iframe>
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAiAcPVwSt6i2216zpcEalJE"
 frameborder="0" allowfullscreen></iframe>
 
-### Playlist 11 on My Favourite Videos:
+### Playlist 11 on My favourite videos:
 <iframe id="ytplayer" type="text/html" width="340" height="240"
 src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAhuInZcLch_WiDuJznPScMd"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 12 on Studying Masters in Germany:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAhVUTv6IQMwM25beR4iL42i"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 13 on Travelling in Netherlands (Trains, buses, tickets):
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAiCfKqRYAUM2gQkeppaOCXU"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 14 on Shopping in Netherlands:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAjiL78E9lWV5EkE-Wyx2lum"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 15 on Livestreams on studying and living in Netherlands:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAgAke9qAol4VE_6ZGkfvacM"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 16 on all the vlogs from the beginning:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAgZ-YMnU9Mht4yKOGzf2t3R"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 17 on House, rented houses, student rooms in Netherlands:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAgAcyeOJ0UcHTMij_Eih23I"
+frameborder="0" allowfullscreen></iframe>
+
+### Playlist 18 on Studying and living in Estonia:
+<iframe id="ytplayer" type="text/html" width="340" height="240"
+src="https://www.youtube.com/embed/?listType=playlist&list=PLrToNHU_lzAgGk2ijcmE4hV24UNQxtfNF"
 frameborder="0" allowfullscreen></iframe>
 
