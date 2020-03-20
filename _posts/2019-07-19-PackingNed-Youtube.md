@@ -9,6 +9,8 @@ bigimg:
   - "/img/bigimg/Packing_Ned.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 In utensils, bring a pressure cooker which is a must, some plates, bowls, spoon (1-2) and a glass if possible, if you want to cook then 1 cooking pan for first week then Ikea will have everything at pretty affordable prices, Check their website and my video on <a href="https://youtu.be/HwO2UE-nQJY">Ikea</a>. 
 
 Some food items like rice, dal or lentils, basic spices like cumin, coriander, turmeric, salt only for first few days then better buy from local Asian, Turkish or Indian markets where you find everything but bit expensive. For example the spice that is Rs. 60 in India may be between Rs. 120-150 here. But, it doesn’t make sense to carry all this from India with weight limit where other things can be carried. Check the <a href="https://youtu.be/gnQZEbvBWUg">Asian Supermarket</a> video.
