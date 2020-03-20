@@ -9,6 +9,8 @@ bigimg:
   - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
 ---
 
+<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div id="google-custom-search">
