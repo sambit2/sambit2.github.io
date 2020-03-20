@@ -9,6 +9,8 @@ bigimg:
   - "/img/bigimg/EC-TEL2018.JPG" : "Presentation in EC-TEL Conference 2018, Leeds, UK"
 ---
 
+<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 **(Note: Please skip the first two paragraphs if you want to only read about my experience in the EC-TEL conference itself right from  Day 1)**
 
 It was the 8th of June when I was anxious to hear about the decision of the EC-TEL full research paper acceptance. Finally, all that waiting did not disappoint and soon the nervous energy turned into more of positivity and self-confidence. As a non-European, the first thing to worry now was to get a approved UK Visa as the conference was organized in Leeds, UK! Although it was not much of a hassle, it was the intital road-block separating me from attending the first conference during my first year of my PhD.
