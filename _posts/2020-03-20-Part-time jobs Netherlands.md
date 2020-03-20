@@ -19,6 +19,7 @@ One thing always remember is that when you start working then you start paying t
 So, I have enclosed some websites at the end of the blog using which you can apply for the part-time jobs and find some more information. Preferable websites are: Undutchables (for English jobs), eures and together abroad. As per my experience, best is LinkedIn.
 
 Based on my experience, part time jobs can be of 2 types: Outside of campus and in the campus. Examples of off-campus jobs are working in PostNL, Dominos Subway, other random IT jobs or in a company or start-ups. For some jobs like PostNL, Dominos and Subway, you will need a basic level of Dutch as you need to interact with the local customers! On-campus jobs include working on a course design, designing a web course like for a MOOC and teaching. All these can be done towards the end of first year Masters or beginning of second year and not applicable for Bachelors. In Bachelors you may design a course in your final year i.e., 3rd year.  One common myth that everyone has is whether part-time jobs can cover all my expenses? The simple and blunt answer is no. You might cover living expenses for 1 year or few months depending on the salary you get. So, make your choice accordingly if you are low on finances! If you are coming to TU Delft then you can enrol for free in Yes Delft which is the start-up incubator and find part-time jobs.
+
 I will share some experiences of my friends who worked part-time in on-campus jobs such as student assistants. It is not easy to get a student assistant job as they are few and also not easy to balance your course-work load with the part-time job! I will do short interviews later may be after 3-4 months with some people who have done part-time jobs in the past. But, for now I will share only some experiences! Please check the Vlog below where I showed some of the experiences. You can also find this part-time job experience links at the end of the blog below! Moreover, you can work part-time in different international offices and introduction program of the universities. The IP or introduction program is very selective and can easily give you a few bucks like around 2000 Eur in only 2 weeks of work and around 3-4 weeks of preparation! A dirt-cheap way to earn few extra bucks. Isn’t it?
 
 Part-time jobs vacancy and information links:
@@ -47,7 +48,7 @@ Some testimonial and experiences of working part-time:
 
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies">https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies</a>
 
-The VLOG on everything about part-time jobs, salary, internships in Netherlands:
+The YouTube VLOG where I discuss in details everything about part-time jobs, salary, internships in Netherlands:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/eWdhoqFzLaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **PS:** Please leave your THOUGHTS and COMMENTS below
