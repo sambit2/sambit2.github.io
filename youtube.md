@@ -18,10 +18,10 @@ bigimg:
      });
 </script>
 
-## Here is the <a href="https://www.youtube.com/sambitphd">link</a> to my channel: SambitPhD
+## Here is the <a href="https://www.youtube.com/sambitphd?sub_confirmation=1">link</a> to my channel: SambitPhD
 It has 2 primary objectives:
-* Study and living in the Netherlands
-* Advice from experts and others on how to come and settle in Netherlands and Europe. There are bonus travel and cooking videos too!
+* Study and living in the Netherlands, Europe
+* Advice from experts and others on how to come and settle in Netherlands, Germany, France, Estonia and rest of Europe. There are bonus travel and cooking videos too!
 
 ### Vlog on Channel Introduction:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/oNAIvega_Kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
