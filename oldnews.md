@@ -11,6 +11,8 @@ bigimg:
 
 <a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <div id="google-custom-search">
 <script>
   (function() {
@@ -29,6 +31,7 @@ bigimg:
 </div>
 
 ## Old News
+- **[December 2018]** Attended the Annual general meeting of <a href="https://www.educationandlearning.nl/news/save-the-date-for-our-annual-meeting-on-19-december">CEL (Center for Education and Learning)</a> in Den Haag on 19th Dec, presented a poster on my PhD research and got some valuable feedback about scalability of my research
 - **[November 2018]** Attended the Conference or <a href="https://www.staff.universiteitleiden.nl/events/2018/11/annual-lta-conference">Education festival</a> in Leiden on 1st November and gained some insights about group dynamics in a higher education classroom from a psychological perspective 
 - **[September 2018]** My first <a href="https://www.youtube.com/channel/UCk9cLrGNIGRLccHd350xKrg">Youtube Channel</a> was launched. Here is my first introduction <a href="https://youtu.be/tU0jQwmMxEo">vlog</a> explaining the main purpose of the channel
 - **[September 2018]** I attended the <a href="http://www.ec-tel.eu/">EC-TEL Conference</a> in Leeds, UK and presented a full research paper titled as <a href="https://bit.ly/2NUXyIJ">**"Multimodal Analytics for Real-time Feedback in Co-located Collaboration"**</a>. The slides of the presentation can be found <a href="https://bit.ly/2oROB8w">here</a>. The overall experience about attending the EC-TEL conference from my perspective can be found <a href="https://sambit2.github.io/2018-09-11-EC-TEL-Sambit/">here</a>
