@@ -87,7 +87,7 @@ function startRecording() {
 		}
 
 		recorder.setOptions({
-		  timeLimit:120,
+		  timeLimit:5400,
 		  encodeAfterRecord:encodeAfterRecord,
 	      ogg: {quality: 0.5},
 	      mp3: {bitRate: 160}
