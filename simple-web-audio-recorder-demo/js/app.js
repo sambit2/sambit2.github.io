@@ -1,3 +1,8 @@
+// https://github.com/higuma/web-audio-recorder-js
+// https://blog.addpipe.com/audio-constraints-getusermedia/
+// https://blog.addpipe.com/using-webaudiorecorder-js-to-record-audio-on-your-website/
+// https://blog.addpipe.com/using-recorder-js-to-capture-wav-audio-in-your-html5-web-site/
+// https://github.com/addpipe/simple-recorderjs-demo
 //webkitURL is deprecated but nevertheless
 URL = window.URL || window.webkitURL;
 
