@@ -6,6 +6,10 @@
 //webkitURL is deprecated but nevertheless
 URL = window.URL || window.webkitURL;
 
+window.onbeforeunload = function (e) {
+        return "Please click 'Stay on this Page' if you did this unintentionally";
+    };
+
 var gumStream; 						//stream from getUserMedia()
 var recorder; 						//WebAudioRecorder object
 var input; 							//MediaStreamAudioSourceNode  we'll be recording
