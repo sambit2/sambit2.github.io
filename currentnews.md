@@ -35,7 +35,9 @@ bigimg:
 </script>
 
 ## Recent News
-- **[March 2020]** Attending the LAK conference 2020 at <s>Frankfurt</s> my home completely online because of the sudden unexpected situation caused due to the COVID 19 outbreak in Netherlands and Europe after China! Will be sharing my experiences soon via a blog and vlog
+- **[December 2020]** Working on the second round of revisions for the IEEE TLT literature review article to be submitted in Jan 2021
+- **[October 2020]** Collected audio data in Dutch language for initial prototype development and testing and writing the third article during the PhD to be submitted in Jan 2021
+- **[March 2020]** Attending the LAK conference 2020 at <s>Frankfurt</s> my home completely online because of the sudden unexpected situation caused due to the COVID 19 outbreak in Netherlands and Europe after China!
 - **[Febraury 2020]** One demo paper accepted in LAK conference 2020 (Learning Analytics and Knowledge) and the other full research paper accepted in the ISLS conference 2020 (International Society of Learning Sciences). The pre-prints of both the papers are available in my publications section or in Scholar
 - **[October 2019]** Attended ICMI Doctoral Consortium and presented my paper accepted with scholarship: <a href="https://dl.acm.org/doi/10.1145/3340555.3356087">"Co-located Collaboration Analytics"</a>. The blog and vlog is coming soon!
 - **[October 2019]** Organized workshop with CEL LDE and NIE at Erasmus Rotterdam to brainstorm the application of Multimodal learning analytics on Co-located collaboration (CC) specifically taking into account the case of CC during knowledge building in classroom
