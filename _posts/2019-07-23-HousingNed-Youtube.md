@@ -37,6 +37,8 @@ Other housing websites:
 
 <a href="https://www.housinganywhere.com/">https://www.housinganywhere.com/</a>
 
+<a href="https://rentslam.com/en/">https://rentslam.com/en/</a>
+
 Rental brokers:
 
 <a href="https://www.easymakelaars.nl/">https://www.easymakelaars.nl/</a>
