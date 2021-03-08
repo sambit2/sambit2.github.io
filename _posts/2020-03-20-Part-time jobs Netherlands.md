@@ -12,12 +12,12 @@ bigimg:
 # Table of contents
 <details>
 <summary>Click to expand</summary>
-1. [Part-time jobs vs Internships] (#1)
-2. [Hour limit for part-time jobs] (#2)
-3. [Insurance rebate during part-time jobs] (#3)
-4. [Types of part-time jobs] (#4)
-5. [Salary in part-time jobs] (#5)
-6. [Websites to apply for part-time jobs] (#6)
+1. [Part-time jobs vs Internships](#1)
+2. [Hour limit for part-time jobs](#2)
+3. [Insurance rebate during part-time jobs](#3)
+4. [Types of part-time jobs](#4)
+5. [Salary in part-time jobs](#5)
+6. [Websites to apply for part-time jobs](#6)
 </details>
 
 ## Part-time jobs vs Internships <a name="1"></a>
