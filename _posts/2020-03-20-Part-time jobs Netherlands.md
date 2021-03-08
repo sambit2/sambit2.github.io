@@ -11,7 +11,7 @@ bigimg:
 
 # Table of contents
 <details>
-<summary>Click to expand</summary>
+<summary>Click here to expand</summary>
   
 1. [Part-time jobs vs Internships](#1)
 2. [Hour limit for part-time jobs](#2)
@@ -70,4 +70,4 @@ Some testimonial and experiences of working part-time:
 
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies">https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies</a>
 
-**PS:** Please leave your THOUGHTS and COMMENTS below
+**PS** Please leave your THOUGHTS and COMMENTS below
