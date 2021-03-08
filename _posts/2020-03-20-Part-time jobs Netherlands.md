@@ -16,9 +16,9 @@ bigimg:
 1. [Part-time jobs vs Internships] (#1)
 2. [Hour limit for part-time jobs] (#2)
 3. [Insurance rebate during part-time jobs] (#3)
-4. [Types of part-time jobs (#4)
-5. [Salary in part-time jobs (#5)
-6. [Websites to apply for part-time jobs (#6)
+4. [Types of part-time jobs] (#4)
+5. [Salary in part-time jobs] (#5)
+6. [Websites to apply for part-time jobs] (#6)
 </details>
 
 ## Part-time jobs vs Internships <a name="1"></a>
@@ -43,6 +43,9 @@ I will share some experiences of my friends who worked part-time in on-campus jo
 ## Websites to apply for part-time jobs <a name="6"></a>
 So, I have enclosed some websites at the end of the blog using which you can apply for the part-time jobs and find some more information. Preferable websites are: Undutchables (for English jobs), eures and together abroad. As per my experience, best is LinkedIn.
 
+The YouTube VLOG where I discuss in details everything about part-time jobs, salary, internships in Netherlands:
+<iframe width="340" height="240" src="https://www.youtube.com/embed/eWdhoqFzLaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a href="https://undutchables.nl/">https://undutchables.nl/</a>
 
 <a href="https://netherlands.expatjobs.eu/Part-Time-Jobs/1">https://www.indeed.nl/Engels-Part-Time-vacatures</a>
@@ -66,8 +69,5 @@ Some testimonial and experiences of working part-time:
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/tothelabormarket/parttime?utm_source=brochure&utm_medium=print&utm_campaign=brochures_international_students">https://www.tilburguniversity.edu/students/career/student-career-services/tothelabormarket/parttime?utm_source=brochure&utm_medium=print&utm_campaign=brochures_international_students</a>
 
 <a href="https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies">https://www.tilburguniversity.edu/students/career/student-career-services/workingabroad/englishvacancies</a>
-
-The YouTube VLOG where I discuss in details everything about part-time jobs, salary, internships in Netherlands:
-<iframe width="340" height="240" src="https://www.youtube.com/embed/eWdhoqFzLaY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **PS:** Please leave your THOUGHTS and COMMENTS below
