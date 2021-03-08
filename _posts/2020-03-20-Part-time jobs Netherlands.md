@@ -12,8 +12,7 @@ bigimg:
 # Table of contents
 <details>
 <summary>Click to expand</summary>
-
-1. [Part-time jobs vs Internships] (#1st)
+1. [Part-time jobs vs Internships] (#1)
 2. [Hour limit for part-time jobs] (#2)
 3. [Insurance rebate during part-time jobs] (#3)
 4. [Types of part-time jobs] (#4)
@@ -21,7 +20,7 @@ bigimg:
 6. [Websites to apply for part-time jobs] (#6)
 </details>
 
-## Part-time jobs vs Internships <a name="1st"></a>
+## Part-time jobs vs Internships <a name="1"></a>
 Don’t confuse part-time jobs with the internships! First, mandatory internships do not require work visa and you can work in your student status if the internship is part of your course curriculum and also receive a tax-free stipend up to a limit. Generally, the money that you can earn is between 500 – 800 eur per month which is sufficient for your living costs. But, this type of internship is normally of 15 ECTS or 3 months. You can also earn same money if you do an industrial thesis explained here:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/eXO8cfkGeIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
