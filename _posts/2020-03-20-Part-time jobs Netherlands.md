@@ -12,7 +12,8 @@ bigimg:
 # Table of contents
 <details>
 <summary>Click to expand</summary>
-1. [Part-time jobs vs Internships](https://sambitpraharaj.com/2020-03-20-Part-time-jobs-Netherlands/#1)
+  
+1. [Part-time jobs vs Internships](#1)
 2. [Hour limit for part-time jobs](#2)
 3. [Insurance rebate during part-time jobs](#3)
 4. [Types of part-time jobs](#4)
