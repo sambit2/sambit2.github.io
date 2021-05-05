@@ -38,6 +38,10 @@ bigimg:
 
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
 
+## 2021
+<img src="../img/journal-article.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Automatic Collaboration Analytics for Group Speech Data Using Learning Analytics*, published in <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors Journal</a> Special Issue <a href="https://www.mdpi.com/journal/sensors/special_issues/sdei">"From Sensor Data to Educational Insights"</a>. The Open access article can be downloaded by anyone using this <a href="https://doi.org/10.3390/s21093156">link</a>
+
 ## 2020
 <img src="../img/conference-paper.png" height="20px">
 Haoyu Chen, Esther Tan, Yoon Lee, Sambit Praharaj, Marcus Specht, Guoying Zhao. *Developing AI into Explanatory Supporting Models: An
