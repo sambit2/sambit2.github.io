@@ -35,6 +35,10 @@ bigimg:
 </script>
 
 ## Recent News
+- **[May 2021]** Working on the third round of revisions for the IEEE TLT literature review article to be submitted in May 2021
+- **[May 2021]** Journal article is published in Sensors special issue after minor revisions. Details to access the open access article can be found in the following tweet and also in the publications section
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So happy that our article: &quot;Towards Automatic Collaboration Analytics for Group Speech Data Using Learning Analytics&quot; with Maren, Marcel, Marcus and Hendrik is hot🔥off the press. It is open access, published in the sensors journal special issue and can be found using this link👇 <a href="https://t.co/it0yZEW1A3">pic.twitter.com/it0yZEW1A3</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1388754277552766976?ref_src=twsrc%5Etfw">May 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+- **[March 2021]** Submitted a journal article for <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors Journal</a> Special Issue <a href="https://www.mdpi.com/journal/sensors/special_issues/sdei">"From Sensor Data to Educational Insights"</a>.
 - **[December 2020]** Working on the second round of revisions for the IEEE TLT literature review article to be submitted in Jan 2021
 - **[October 2020]** Collected audio data in Dutch language for initial prototype development and testing and writing the third article during the PhD to be submitted in Jan 2021
 - **[March 2020]** Attending the LAK conference 2020 at <s>Frankfurt</s> my home completely online because of the sudden unexpected situation caused due to the COVID 19 outbreak in Netherlands and Europe after China!
