@@ -36,7 +36,7 @@ bigimg:
 <gcse:searchresults></gcse:searchresults>
 </div>
 
-I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a> and <a href ="https://dblp.org/pers/hd/p/Praharaj:Sambit">DBLP</a>
+I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a>.
 
 ## 2021
 <img src="../img/journal-article.png" height="20px">
