@@ -40,6 +40,9 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2021
 <img src="../img/journal-article.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Hendrik Drachsler, Marcus Specht. *Literature Review on Co-Located Collaboration Modeling Using Multimodal Learning Analytics--Can We Go the Whole Nine Yards?*, to be published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE Transactions in Learning Technologies Journal</a>. Access link coming soon in July!
+
+<img src="../img/journal-article.png" height="20px">
 Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Automatic Collaboration Analytics for Group Speech Data Using Learning Analytics*, published in <a href="https://www.mdpi.com/journal/sensors">MDPI Sensors Journal</a> Special Issue <a href="https://www.mdpi.com/journal/sensors/special_issues/sdei">"From Sensor Data to Educational Insights"</a>. The Open access article can be downloaded by anyone using this <a href="https://doi.org/10.3390/s21093156">link</a>
 
 ## 2020
