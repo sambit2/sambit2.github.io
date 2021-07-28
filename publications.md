@@ -78,7 +78,7 @@ Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="
 Sambit Praharaj. *<a href="https://repository.tudelft.nl/islandora/object/uuid:e55389c3-3966-40f5-bf83-a8f9c6c393f0">Data Analytics in Web-based Education in the Higher-education Classroom</a>*, published at TU Delft repository as a part of my Master thesis completion in Computer Science
 
 <img src="../img/conference-paper.png" height="20px">
-Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *<a href="https://dl.acm.org/citation.cfm?id=3079671">Measuring Student Behaviour Dynamics in a Large Interactive Classroom Setting</a>*, published at <a href="https://dl.acm.org/citation.cfm?id=3027144">ACM UMAP 2017</a>
+Vasileios Triglianos, Sambit Praharaj, Cesare Pautasso, Alessandro Bozzon and Claudia Hauff. *<a href="https://doi.org/10.1145/3079628.3079671">Measuring Student Behaviour Dynamics in a Large Interactive Classroom Setting</a>*, published at <a href="https://dl.acm.org/citation.cfm?id=3027144">ACM UMAP 2017</a>
 
 ## 2016
 <img src="../img/book-chapter.png" height="20px">
