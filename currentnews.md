@@ -35,6 +35,8 @@ bigimg:
 </script>
 
 ## Recent News
+- **[July 2021]** Finally after 2 years, multiple round of major revisions, our article is PUBLISHED in IEEE TLT Journal Open Access. Literature Review on Co-Located Collaboration Modeling Using Multimodal Learning Analytics—Can We Go the Whole Nine Yards?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally after 2 years, multiple round of major revisions, our article is PUBLISHED in IEEE TLT Open Access. Literature Review on Co-Located Collaboration Modeling Using Multimodal Learning Analytics—Can We Go the Whole Nine Yards? <a href="https://twitter.com/m_a_s_c?ref_src=twsrc%5Etfw">@m_a_s_c</a> <a href="https://twitter.com/HDrachsler?ref_src=twsrc%5Etfw">@HDrachsler</a> <a href="https://twitter.com/marcuspecht?ref_src=twsrc%5Etfw">@marcuspecht</a> Free download👇 <a href="https://t.co/C1qsmh89E6">pic.twitter.com/C1qsmh89E6</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1417789976364953602?ref_src=twsrc%5Etfw">July 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[May 2021]** Working on the third round of revisions for the IEEE TLT literature review article to be submitted in May 2021
 - **[May 2021]** Finsished co-supervision of 2 Master thesis students in Open University of the Netherlands
 - **[May 2021]** Journal article is published in Sensors special issue after minor revisions. Details to access the open access article can be found in the following tweet and also in the publications section
