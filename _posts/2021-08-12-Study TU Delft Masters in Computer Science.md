@@ -41,3 +41,6 @@ Check my answer in Quora: [Sambit Praharaj's answer to What is the cost of livin
 I have a video series on this. Do check it out to get the complete picture! Checkout Vlog 34 (where I have discussed with a short interview about all questions related to job, internships, search visa for 1 year stay after study for job search) in my YouTube channel to know more about studying, living, traveling in the Netherlands and SUBSCRIBE for more such content! Check this video to know the details.
 
 <iframe width="340" height="240" src="https://www.youtube.com/embed/kOIA0ljX4xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Video on the whole blog on my YouTube channel:
+<iframe width="340" height="240" src="https://www.youtube.com/embed/EiuqxTpedC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
