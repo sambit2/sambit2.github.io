@@ -50,3 +50,6 @@ Ikea (everything), Action (cheapest daily use home stuff), Hema (all home use st
 ## Playlist on shopping in Netherlands
 For the collection of all these above videos and others, check this playlist: 
 <iframe width="340" height="240" src="https://www.youtube.com/embed/videoseries?list=PLrToNHU_lzAjiL78E9lWV5EkE-Wyx2lum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The video on YouTube covering this Vlog:
+<iframe width="340" height="240" src="https://www.youtube.com/embed/Dt2NvNnpZeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
