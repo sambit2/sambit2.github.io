@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Netherlands, blog, masters, shopping, YouTube, Y2021, phd]
+tags: [Netherlands, blog, masters, shopping, YouTube, Y2021, PhD]
 title:  Cheap Shopping in Netherlands
 subtitle: All about shopping in Netherlands
 image: "/img/bigimg/shoppingnl.png"
