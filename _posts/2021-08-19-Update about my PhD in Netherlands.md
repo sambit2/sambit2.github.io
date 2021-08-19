@@ -24,3 +24,6 @@ So, now I am writing my last article and also my thesis. According to my supervi
 
 ## What is the plan ahead?
 Now, I am completely occupied with the PhD thesis writing, 4th article writing, some data analysis for the 4th article and obviously making these vlogs and blogs for you all my friends :) . I have to finish the 1st draft of the thesis and the 4th article by 1st of October. We have already decided the committee for my PhD defence which is like a ceremony here. Now, we check their availability and send the 1st PhD thesis draft to them somewhere in Oct after it has been approved by my supervisors. Then, hopefully the next 20 steps before the PhD defence will kick in and we can finalize a date somewhere in Feb 2022 and I can hopefully finish my PhD before the end of my current extended contract so that at the end I am not jobless before finishing my PhD!
+
+## Video on YouTube on this Vlog to give a short update about my PhD
+<iframe width="340" height="240" src="https://www.youtube.com/embed/5RwA27-LSlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
