@@ -36,9 +36,9 @@ Easily more than 50% of the earnings for a single person per month, check my sav
 ## Total time to payback the loan? EMI Calculator?
 Depends a lot on the flexibility, terms and conditions and interest rate of the lending bank or institution.
 [SBI EMI Calculator](https://sbi.co.in/web/student-platform/emi-calculator) (This link is accessed on 28th August 2021)
-30 lakhs, 3 years payback period after the study (or moratarium period), 9.30% p.a. then EMI (Easy Monthly Installments) will be around 95819 INR or 1105 Eur per month at the current rate conversion rate on 28th August 2021.
+30 lakhs, 3 years payback period after the study (or moratarium period), 9.30% p.a. then EMI (Easy Monthly Installments) will be around 95819 INR or 1105 Eur per month at the current rate conversion rate on 28th August 2021. The following screenshot shows a sample EMI calculation using this calculator.
 
-<img src="..img/bigimg/StudyabroadLoan.png" height="40px"/>
+![StudyabroadLoan](https://user-images.githubusercontent.com/15069199/131693195-46598d0b-2861-4966-a509-cbdc49c94d64.png)
 
 The YouTube video on this:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/tftaGaGCu3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
