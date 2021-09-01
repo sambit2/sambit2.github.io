@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [NetherlandsArrival, blog, Europe, Studyineurope, YouTube, Y2020]
+tags: [NetherlandsArrival, blog, Europe, Studyineurope, YouTube, Y2020, StudyAbroad]
 title:  Complete guide for Indians to study abroad/ Europe
 subtitle: All about studying in Europe for Indian aspirants...
 image: "/img/bigimg/studyineurope1.png"
