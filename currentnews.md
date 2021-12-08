@@ -36,6 +36,7 @@ bigimg:
 
 ## Recent News
 - **[Dec 2021]** LAK Conference Article accepted where the acceptance rate was 29.5%
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the nature dances before you with its majestic beauty, you surrender with awe! On top of that you suddenly hear that you get your article accepted in your dream conference for the first time! This is what made me dance with the nature :) <a href="https://twitter.com/hashtag/lak22?src=hash&amp;ref_src=twsrc%5Etfw">#lak22</a><br><br>PS: In Tromso Norway (3 Dec) <a href="https://t.co/tHKgw54fra">pic.twitter.com/tHKgw54fra</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1466658234115239941?ref_src=twsrc%5Etfw">December 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Nov 2021]** Submitted PhD thesis to my supervising committee 
 - **[Oct 2021]** Submitted last PhD article to LAK Conference 
 - **[Sept 2021]** Working on the last article for PhD targeting the LAK Conference 2022 (deadline 5th Oct 2021 14:00 CEST) and also writing PhD thesis!
