@@ -38,6 +38,10 @@ bigimg:
 
 I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9sAAAAJ&hl=en">Google Scholar</a>.
 
+## 2022
+<img src="../img/conference-paper.png" height="20px">
+Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Collaborative Convergence: Quantifying Collaboration Quality with Automated Co-located Collaboration Analytics*, will be published at ACM conference proceedings in <a href="https://www.solaresearch.org/events/lak/lak22/">LAK 2022</a> [[PDF Preprint→]](../documents/publications/LAK22Preprint.pdf)
+
 ## 2021
 <img src="../img/journal-article.png" height="20px">
 Sambit Praharaj, Maren Scheffel, Hendrik Drachsler, Marcus Specht. *Literature Review on Co-Located Collaboration Modeling Using Multimodal Learning Analytics---Can We Go the Whole Nine Yards?*, published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE Transactions in Learning Technologies Journal</a>. The <mark>OPEN ACCESS</mark> article can be downloaded by anyone using this <a href="https://dx.doi.org/10.1109/TLT.2021.3097766">link</a>. It is part of Volume 14, Issue 3!
