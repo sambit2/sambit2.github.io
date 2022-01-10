@@ -34,3 +34,8 @@ Flew from Paris to New Delhi with Air India on 12th Dec.
 
 Hope this helps everyone planning to come to India in the near future! 
 Would also like to thank members of this group whose experiences helped a lot during my travel.
+
+The video of this experience on YouTube:
+
+<iframe width="340" height="240" src="https://www.youtube.com/embed/v8Yi53nsLqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
