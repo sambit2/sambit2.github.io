@@ -35,6 +35,8 @@ bigimg:
 </script>
 
 ## Recent News
+- **[Feb 2022]** Very happy that my PhD thesis (dissertation) was accepted by the committee and my proof book arrived to check the pages before final thesis can be printed on a scale!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally heard from the committee and my PhD thesis is approved! So, I can have my defence finally on 11th Mar 2022 before presenting in LAK conference :) First glimpse of the proof book that arrived today!<br><br>Never felt so happy until you hold 4.5 years of work bundled in one book. <a href="https://t.co/xjXO9UA1SV">pic.twitter.com/xjXO9UA1SV</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1489314899171946496?ref_src=twsrc%5Etfw">February 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Dec 2021]** LAK Conference Article was accepted where the acceptance rate was 29.5%
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the nature dances before you with its majestic beauty, you surrender with awe! On top of that you suddenly hear that you get your article accepted in your dream conference for the first time! This is what made me dance with the nature :) <a href="https://twitter.com/hashtag/lak22?src=hash&amp;ref_src=twsrc%5Etfw">#lak22</a><br><br>PS: In Tromso Norway (3 Dec) <a href="https://t.co/tHKgw54fra">pic.twitter.com/tHKgw54fra</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1466658234115239941?ref_src=twsrc%5Etfw">December 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Nov 2021]** Submitted PhD thesis to my supervising committee 
