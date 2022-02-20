@@ -78,7 +78,7 @@ Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a hr
 Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://doi.org/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018. The presentation slides can be found <a href="https://www.slideshare.net/SambitPraharaj/multimodal-analytics-for-realtime-feedback-in-colocated-collaboration-ectel-2018">here</a>.
 
 ## 2017
-<img src="../img/thesis.jpg" height="30px">
+<img src="../img/thesislogo.jpg" height="30px">
 Sambit Praharaj. *<a href="https://repository.tudelft.nl/islandora/object/uuid:e55389c3-3966-40f5-bf83-a8f9c6c393f0">Data Analytics in Web-based Education in the Higher-education Classroom</a>*, published at TU Delft repository as a part of my Master thesis completion in Computer Science
 
 <img src="../img/conference-paper.png" height="20px">
