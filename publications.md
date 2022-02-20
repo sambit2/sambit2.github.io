@@ -42,7 +42,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 <img src="../img/conference-paper.png" height="20px">
 Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Collaborative Convergence: Quantifying Collaboration Quality with Automated Co-located Collaboration Analytics*, will be published at ACM conference proceedings in March 2022 in <a href="https://www.solaresearch.org/events/lak/lak22/">LAK 2022</a> [[PDF Preprint→]](../documents/publications/LAK22Preprint.pdf)
 
-<img src="../img/thesislogo.jpg" height="50px">
+<img src="../img/thesislogonew.png" height="30px">
 Sambit Praharaj. *Measuring the Unmeasurable? Towards Automatic Co-located Collaboration Analytics*, PhD thesis (dissertation) will be published in the <a href="https://www.ou.nl/en/">Open University of the Netherlands</a> repository in March 2022 [[PDF Preprint→]](../documents/publications/1_SambitPhDThesisEbook20Feb2022_Compressed.pdf) as part of completion of my PhD research.
 
 ## 2021
@@ -81,7 +81,7 @@ Vania Dimitrova, Sambit Praharaj, Mikhail Fominykh and Hendrik Drachsler. *<a hr
 Sambit Praharaj, Maren Scheffel, Hendrik Drachsler and Marcus Specht. *<a href="https://doi.org/10.1007/978-3-319-98572-5_15">Multimodal Analytics for Real-time Feedback in Co-located Collaboration</a>*, published at Springer LNCS proceedings in <a href="http://www.ec-tel.eu/">EC-TEL</a> 2018. The presentation slides can be found <a href="https://www.slideshare.net/SambitPraharaj/multimodal-analytics-for-realtime-feedback-in-colocated-collaboration-ectel-2018">here</a>.
 
 ## 2017
-<img src="../img/thesislogo.jpg" height="50px">
+<img src="../img/thesislogonew.png" height="30px">
 Sambit Praharaj. *<a href="https://repository.tudelft.nl/islandora/object/uuid:e55389c3-3966-40f5-bf83-a8f9c6c393f0">Data Analytics in Web-based Education in the Higher-education Classroom</a>*, published at TU Delft repository as a part of my <mark>Master thesis in Computer Science as OPEN ACCESS</mark>
 
 <img src="../img/conference-paper.png" height="20px">
