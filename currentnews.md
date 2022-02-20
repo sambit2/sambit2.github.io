@@ -35,6 +35,8 @@ bigimg:
 </script>
 
 ## Recent News
+- **[Feb 2022]** First batch of my PhD thesis (dissertation) hardcover copies arrived now! Almost walking on a dream!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some of my hardcover PhD thesis copies arrived today! <br><br>Walking on a dream!<a href="https://twitter.com/PhDVoice?ref_src=twsrc%5Etfw">@PhDVoice</a> <a href="https://t.co/L8UphqeR45">pic.twitter.com/L8UphqeR45</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1495010741312761858?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Feb 2022]** Very happy that my PhD thesis (dissertation) was accepted by the committee and my proof book arrived to check the pages before final thesis can be printed on a scale!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally heard from the committee and my PhD thesis is approved! So, I can have my defence finally on 11th Mar 2022 before presenting in LAK conference :) First glimpse of the proof book that arrived today!<br><br>Never felt so happy until you hold 4.5 years of work bundled in one book. <a href="https://t.co/xjXO9UA1SV">pic.twitter.com/xjXO9UA1SV</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1489314899171946496?ref_src=twsrc%5Etfw">February 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Dec 2021]** LAK Conference Article was accepted where the acceptance rate was 29.5%
