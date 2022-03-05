@@ -40,7 +40,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2022
 <img src="../img/conference-paper.png" height="20px">
-Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Collaborative Convergence: Quantifying Collaboration Quality with Automated Co-located Collaboration Analytics*, will be published at ACM conference proceedings in March 2022 in <a href="https://www.solaresearch.org/events/lak/lak22/">LAK 2022</a> [[PDF Preprint→]](../documents/publications/LAK22Preprint.pdf)
+Sambit Praharaj, Maren Scheffel, Marcel Schmitz, Marcus Specht, Hendrik Drachsler. *Towards Collaborative Convergence: Quantifying Collaboration Quality with Automated Co-located Collaboration Analytics*, will be published at ACM conference proceedings in March 2022 in <a href="https://www.solaresearch.org/events/lak/lak22/">LAK 2022</a> [[PDF Preprint→]](../documents/publications/LAK22Preprint.pdf). Article can be found <a href="https://doi.org/10.1145/3506860.3506922">here</a>.
 
 <img src="../img/thesislogonew.png" height="20px">
 Sambit Praharaj. *Measuring the Unmeasurable? Towards Automatic Co-located Collaboration Analytics*, <mark>PhD thesis (dissertation)</mark> will be published in the <a href="https://www.ou.nl/en/">Open University of the Netherlands</a> repository in March 2022 [[PDF Preprint→]](../documents/publications/1_SambitPhDThesisEbook20Feb2022_Compressed.pdf) as part of completion of my PhD research.
