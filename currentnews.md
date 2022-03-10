@@ -35,7 +35,7 @@ bigimg:
 </script>
 
 ## Recent News
-- **[Feb 2022]** Excited to say that my public PhD defence will be streamed live sharp at 13:30 CET or 18:00 IST on 11th March 2022!
+- **[Mar 2022]** Excited to say that my public PhD defence will be streamed live sharp at 13:30 CET or 18:00 IST on 11th March 2022!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited to say that my public PhD defence will be streamed live sharp at 13:30 CET or 18:00 IST on 11th March 2022!<br><br>Check the livestream link in the first comment! <a href="https://t.co/jDUCjW2JYA">pic.twitter.com/jDUCjW2JYA</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1501846764600664065?ref_src=twsrc%5Etfw">March 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Feb 2022]** First batch of my PhD thesis (dissertation) hardcover copies arrived now! Almost walking on a dream!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some of my hardcover PhD thesis copies arrived today! <br><br>Walking on a dream!<a href="https://twitter.com/PhDVoice?ref_src=twsrc%5Etfw">@PhDVoice</a> <a href="https://t.co/L8UphqeR45">pic.twitter.com/L8UphqeR45</a></p>&mdash; Sambit Praharaj (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1495010741312761858?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
