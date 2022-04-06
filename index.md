@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Researcher
+title:  EdTech Doctor
 subtitle: Technology Enhanced Learning and Innovations, Welten Institute, Open Universiteit, Netherlands
 ---
 
