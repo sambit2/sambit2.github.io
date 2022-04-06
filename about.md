@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Researcher
+title:  EdTech Doctor
 subtitle: Curious about my brief academic background?
 css: "/css/index.css"
 bigimg:
