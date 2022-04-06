@@ -44,15 +44,7 @@ Previously, I was a <b>Master's student</b> in the <a href="http://www.wis.ewi.t
 ## Contact
 
 ```
-Open Universiteit - TELI, Welten Institute, PenOW
-Valkenburgerweg 177, 6419 AT
-Heerlen
-The Netherlands
-
-Office: Chiba building
-Valkenburgerweg 177, 6419 AT
-Heerlen
-The Netherlands
+Everything about me: https://linktr.ee/sambitphd
 Email: sambit[DOT]praharaj[AT]ou[DOT]nl or sambit_praharaj[AT]yahoo[DOT]com
 
 ```
