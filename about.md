@@ -4,6 +4,7 @@ title:  EdTech Doctor
 subtitle: Curious about my brief academic background?
 css: "/css/index.css"
 bigimg:
+  - "/img/bigimg/4.jpg" : "Majestic Northern lights in Norway, Tromso (2021)"
   - "/img/bigimg/1.jpg" : "My PhD research group, Heerlen (2019)"
   - "/img/bigimg/2.jpg" : "Indian student Association, Delft (2019)"
   - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
