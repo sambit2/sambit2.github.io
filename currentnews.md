@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Researcher
+title:  Postdoc Research Assistant
 subtitle: What am I busy with nowadays?
 css: "/css/index.css"
 bigimg:
@@ -35,6 +35,8 @@ bigimg:
 </script>
 
 ## Recent News
+- **[June 2022]** I started as a Postdoc Research Assistant at <a href="https://www.cais.nrw/en/center-for-advanced-internet-studies-cais-en-2/">CAIS</a> and <a href="https://www.ruhr-uni-bochum.de/en">Ruhr University Bochum</a> in Germany. I will be working within the research theme of Educational Technologies and Artificial Intelligence. 
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am thrilled to start a PostDoc with Nikol Rummel and her group in EdTech and AI research program in Bochum, Germany. Finally moving from the Netherlands after 7 years! Was a great pre-first day meeting and knowing different colleagues over the BBQ party. <a href="https://t.co/fcY6laPLdg">pic.twitter.com/fcY6laPLdg</a></p>&mdash; Sambit Praharaj, PhD (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1532096107970543617?ref_src=twsrc%5Etfw">June 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Mar 2022]** An experience of a lifetime when you end something significant! PhD done :) Successully passed my PhD defence on 11th March 2022!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">An experience of a lifetime when you end something significant! PhD done :)<br><br>Thank you everyone, thanks to my supervisors and the committee for this awesome experience! Especially, my supervisors made this time period a memorable one which will be etched in my memory forever. <a href="https://t.co/WN83mwUhAF">pic.twitter.com/WN83mwUhAF</a></p>&mdash; Sambit Praharaj, PhD (@SambitPhD) <a href="https://twitter.com/SambitPhD/status/1502590667729641475?ref_src=twsrc%5Etfw">March 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - **[Mar 2022]** Excited to say that my public PhD defence will be streamed live sharp at 13:30 CET or 18:00 IST on 11th March 2022!
