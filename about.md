@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  EdTech Doctor
+title:  Research on AI in EdTech
 subtitle: Curious about my brief academic background?
 css: "/css/index.css"
 bigimg:
@@ -36,7 +36,9 @@ bigimg:
 
 ## Currently
 
-My name is <a href="https://www.linkedin.com/in/sambitpraharaj/">Sambit Praharaj</a>. Recently, I graduated as a PhD on Educational Technologies. I had started my new research adventure as a <b>PhD candidate</b> in the <b>Technology Enhanced Learning Innovations (TELI) </b> group in <a href="https://www.ou.nl/">Open University</a> of the Netherlands from 1st of September 2017. My promotors are <a href="https://scholar.google.com/citations?user=fC3dymIAAAAJ">Prof. dr. Marcus Specht </a> and <a href="https://scholar.google.com/citations?user=v1hwiRAAAAAJ">Prof. dr. Hendrik Drachsler</a>. Additionally, I have <a href="https://scholar.google.de/citations?user=iI8G4nYAAAAJ&hl=de">Dr. Maren Scheffel</a> as my co-promotor and daily supervisor. My research primarily focuses on the use of Multimodal Learning Analytics in a face-to-face collaboration setting to do automatic collaboration analytics to gain insights into the collaboration processes. My research interests revolve around Artificial Intelligence in Education, Collaboration Analytics, Learning Analytics, Collaborative Learning, Human Computer Interaction, Educational Data Science, Technology Enhanced Learning, Educational Technologies and Educational Sciences. I live in the beautiful city of <a href ="http://www.valkenburg.nl/">Valkenburg</a> in the Netherlands sandwiched between Germany and Belgium in near proximity.
+My name is <a href="https://www.linkedin.com/in/sambitpraharaj/">Sambit Praharaj</a>. Ambition, optimism and process oriented approach drives me. Currently, I am a Postdoc Research Assistant working with the Educational Technologies & Artificial Intelligence group at <a href="https://www.cais.nrw/en/center-for-advanced-internet-studies-cais-en-2/">CAIS</a> and <a href="https://www.ruhr-uni-bochum.de/en">Ruhr University Bochum</a> in Germany. My primary research is focused on detecting the quality of collaboration during teamwork and then give real-time adaptive feedback to support collaboration using collaboration analytics and AI.
+
+I graduated as a PhD on Educational Technologies. I had started my new research adventure as a <b>PhD candidate</b> in the <b>Technology Enhanced Learning Innovations (TELI) </b> group in <a href="https://www.ou.nl/">Open University</a> of the Netherlands from 1st of September 2017. My promotors are <a href="https://scholar.google.com/citations?user=fC3dymIAAAAJ">Prof. dr. Marcus Specht </a> and <a href="https://scholar.google.com/citations?user=v1hwiRAAAAAJ">Prof. dr. Hendrik Drachsler</a>. Additionally, I have <a href="https://scholar.google.de/citations?user=iI8G4nYAAAAJ&hl=de"> Prof. dr. Maren Scheffel</a> as my co-promotor and daily supervisor. My research primarily focuses on the use of Multimodal Learning Analytics in a face-to-face collaboration setting to do automatic collaboration analytics to gain insights into the collaboration processes. My research interests revolve around Artificial Intelligence in Education, Collaboration Analytics, Learning Analytics, Collaborative Learning, Human Computer Interaction, Educational Data Science, Technology Enhanced Learning, Educational Technologies and Educational Sciences. I live in the beautiful city of <a href ="http://www.valkenburg.nl/">Valkenburg</a> in the Netherlands sandwiched between Germany and Belgium in near proximity.
 
 ## Previously
 
