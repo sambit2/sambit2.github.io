@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Researcher
+title:  EdTech Doctor
 subtitle: Which journals and conferences have I reviewed for?
 css: "/css/index.css"
 bigimg:
@@ -31,6 +31,8 @@ bigimg:
 </div>
 
 ## Reviewing Experience
+- **[July 2022]** Reviewed 1 article from <a href="https://www.frontiersin.org/journals/education">Frontiers in Education</a> Journal as an invited reviewer
+- **[Jun 2022]** Reviewed 1 article from <a href="https://www.tandfonline.com/toc/rlrp20/current">RLRP (Learning: Research and Practice)</a> Journal as an invited reviewer
 - **[April 2022]** Reviewed 1 article from <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076">IEEE TLT</a> (Transactions in Learning Technology) <a href="https://ieee-edusociety.org/publications/tlt-sle-special-issue">special issue</a> as an invited reviewer
 - **[Feb 2022]** Reviewed 1 article from <a href="https://onlinelibrary.wiley.com/journal/13652729">JCAL</a> (Journal of Computer Assisted Learning) as an invited sub-reviewer
 - **[Nov 2021]** Reviewed 1 article from <a href="https://www.tandfonline.com/toc/rlrp20/current">RLRP (Learning: Research and Practice)</a> Journal as an invited reviewer
