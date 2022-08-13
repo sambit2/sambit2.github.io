@@ -12,11 +12,6 @@ bigimg:
 
 <a href="https://twitter.com/SambitIllumina?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitIllumina</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/sambitphd" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
 <div id="google-custom-search">
 <script>
   (function() {
