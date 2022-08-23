@@ -9,6 +9,12 @@ bigimg:
   - "/img/bigimg/3.jpg" : "Plaza de España, Seville (2018)"
 ---
 
+<a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-height="800" href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw">Tweets by SambitPhD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sambitpraharaj" target="_blank">Follow on LinkedIn</a>
+
 <div id="google-custom-search">
 <script>
   (function() {
@@ -64,7 +70,3 @@ bigimg:
 <div class="list-filters">
   <a href="/oldnews" class="list-filter filter-selected">Old News</a>
 </div>
-
-<a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="twitter-timeline" data-height="800" href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw">Tweets by SambitPhD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
