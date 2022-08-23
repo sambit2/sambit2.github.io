@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  PhD Researcher
+title:  Postdoctoral Researcher
 subtitle: Something you must know about me?!
 css: "/css/index.css"
 bigimg:
