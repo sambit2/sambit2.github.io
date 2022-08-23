@@ -15,7 +15,7 @@ bigimg:
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sambitpraharaj" target="_blank" data-show-count="true">Follow on LinkedIn</a>
 
 <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="310449542" data-counter="bottom"></script>
+<script type="IN/followMember" data-id="310449542" data-counter="bottom"></script>
 
 <div id="google-custom-search">
 <script>
