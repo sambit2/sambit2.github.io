@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Postdoc Research Assistant
+title:  Postdoctoral Researcher
 subtitle: What am I busy with nowadays?
 css: "/css/index.css"
 bigimg:
