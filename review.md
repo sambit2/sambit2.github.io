@@ -13,6 +13,8 @@ bigimg:
 
 <a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sambitpraharaj" target="_blank">Follow on LinkedIn</a>
+
 <div id="google-custom-search">
 <script>
   (function() {
