@@ -14,6 +14,9 @@ bigimg:
 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sambitpraharaj" target="_blank">Follow on LinkedIn</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 <div id="google-custom-search">
 <script>
   (function() {
