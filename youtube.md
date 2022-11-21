@@ -10,15 +10,10 @@ bigimg:
 
 <a href="https://twitter.com/SambitPhD?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @SambitPhD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-8842338021751829",
-          enable_page_level_ads: true
-     });
-</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
 
-## Here is the <a href="https://www.youtube.com/sambitphd?sub_confirmation=1">link</a> to my channel: SambitPhD
+## Here is the <a href="https://www.youtube.com/sambitphd?sub_confirmation=1">link</a> to my channel: SambitPhD. It has more than 14K Subscribers. 
 It has 2 primary objectives:
 * Study and living in the Netherlands, Europe
 * Advice from experts and others on how to come and settle in Netherlands, Germany, France, Estonia and rest of Europe. There are bonus travel and cooking videos too!
