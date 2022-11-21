@@ -9,6 +9,9 @@ bigimg:
   - "/img/bigimg/IndiaNLOmicron.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 Had a very positive experience at the New Delhi airport on arrival on 13th Dec night around 00:00-01:00! 
 
 Flew from Paris to New Delhi with Air India on 12th Dec. 
