@@ -9,10 +9,12 @@ bigimg:
   - "/img/bigimg/parttimejob_nl.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 ## Part-time jobs vs Internships <a name="1"></a>
 Don’t confuse part-time jobs with the internships! First, mandatory internships do not require work visa and you can work in your student status if the internship is part of your course curriculum and also receive a tax-free stipend up to a limit. Generally, the money that you can earn is between 500 – 800 eur per month which is sufficient for your living costs. But, this type of internship is normally of 15 ECTS or 3 months. You can also earn same money if you do an industrial thesis explained here:
 <iframe width="340" height="240" src="https://www.youtube.com/embed/eXO8cfkGeIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ## Hour limit for part-time jobs <a name="2"></a>
 Now, getting back to the real deal i.e., the part-time jobs, you can work max. 16 months per week except the summer months of June, July and August when you can work full time! You can either work part-time for the whole year or full-time during summer months. Choice is yours! But, you cannot do both! Employer needs to sponsor your work permit which normally takes 3-4 weeks to get. The salary mostly varies from 11 to 14 Euros per hour and sometimes your work is not for the entire 16 hours per week! Your employer is responsible for applying your work visa. To know more details about working in Netherlands, stay period after study, check this video:
