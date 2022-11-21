@@ -9,6 +9,9 @@ bigimg:
   - "/img/bigimg/loanpayback.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 This video will give an approximate idea of the range of time required to pay back the education loan taken in India for study abroad. The use case used here is of the Netherlands for study, living while the same logic can be adapted to other European countries, USA or any other study abroad destinations. Also, the use case here takes an example of a simple scheme to payback loan after the moratorium period after studies abroad from a Government bank in India. The main components that will change are the study, living expenses, salary and savings. This calculation is also obviously dependent on the terms and conditions, interest rate, flexibility offered by the financial institution or bank!
 
 ## What are the study, living and other expenses?
