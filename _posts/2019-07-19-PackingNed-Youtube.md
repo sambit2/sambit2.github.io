@@ -9,8 +9,10 @@ bigimg:
   - "/img/bigimg/Packing_Ned.png" : "Youtube thumbnail for the Vlog"
 ---
 
-In utensils, bring a pressure cooker which is a must, some plates, bowls, spoon (1-2) and a glass if possible, if you want to cook then 1 cooking pan for first week then Ikea will have everything at pretty affordable prices, Check their website and my video on <a href="https://youtu.be/HwO2UE-nQJY">Ikea</a>. 
-<script data-ad-client="ca-pub-8842338021751829" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
+In utensils, bring a pressure cooker which is a must, some plates, bowls, spoon (1-2) and a glass if possible, if you want to cook then 1 cooking pan for first week then Ikea will have everything at pretty affordable prices, Check their website and my video on <a href="https://youtu.be/HwO2UE-nQJY">Ikea</a>.
 Some food items like rice, dal or lentils, basic spices like cumin, coriander, turmeric, salt only for first few days then better buy from local Asian, Turkish or Indian markets where you find everything but bit expensive. For example the spice that is Rs. 60 in India may be between Rs. 120-150 here. But, it doesn’t make sense to carry all this from India with weight limit where other things can be carried. Check the <a href="https://youtu.be/gnQZEbvBWUg">Asian Supermarket</a> video.
 
 Pretty basic stationaries like the cello tape, use and throw pen maybe 20, markers. They are generally expensive here in Netherlands. Batteries (both AA and AAA). Rope, clips, nail cutter. Soap, Deodrant, Tooth brush and Paste, Trimmer. Trimmer will be the best handy tool which I also mentioned in the cost of living video. It can save you few bucks whenever you cut your hair yourself instead of cutting outside. I do that always till today and it is not difficult after few attempts. Trust me on this! A decent one from Philips will have 5 year warranty and will cost around 40 Eur which is pretty cheap compared to cutting hair in a salon paying 10-15 Eur each time! Check the <a href="https://youtu.be/F7QqBH6Cknc">cost of living</a> video to know more! Don’t forget to keep 2-3 universal adapter which can be really useful as everything in Netherlands and Europe are 2 pin. Good thing is that most of the 2 pins from India will fit in the socket like the thin 2 pin mobile chargers and 2 pins from some other electrical appliances.
