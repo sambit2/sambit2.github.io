@@ -15,6 +15,9 @@ bigimg:
 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sambitpraharaj" target="_blank">Follow on LinkedIn</a>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+     
 <div id="google-custom-search">
 <script>
   (function() {
@@ -31,14 +34,6 @@ bigimg:
 <gcse:searchbox></gcse:searchbox>
 <gcse:searchresults></gcse:searchresults>
 </div>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-8842338021751829",
-          enable_page_level_ads: true
-     });
-</script>
 
 ## Recent News
 - **[July 2022]** I was invited for a research visit to <a href="https://iut-laval.univ-lemans.fr/fr/index.html">IUT Laval</a> in France for a <a href="https://lium.univ-lemans.fr/en/am-i-collaborating-well/">talk</a>. Here, I presented ideas on my PhD and Postdoc research and also discussed possible collaborations with the university and Iza Marfisi in the future.
