@@ -9,6 +9,9 @@ bigimg:
   - "/img/bigimg/studyintudelft1.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 I **finished** my **Msc in Computer Sc.** from TU Delft in **2015-2017** as a non EU student (actually from India). I had a very positive experience with my whole MSc in CS, and even got into a **PhD program** of my choice in the Netherlands **immediately** after finishing my Masters for which I already had the offer almost 2 months before finishing Masters! So, I might sound **overly OPTIMISTIC** in sharing my experience and you should **proceed with CAUTION** when you join the program. But, anyways here are the reasons why I find the program very good:
 
 ##  Academic Load
