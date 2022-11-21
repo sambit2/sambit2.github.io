@@ -9,6 +9,9 @@ bigimg:
   - "/img/bigimg/phdupdate.png" : "Youtube thumbnail for the Vlog"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2991996466677058"
+     crossorigin="anonymous"></script>
+
 ## How far am I from the end goal: My PhD thesis defence?
 
 ### Refer back to my PhD fail story
