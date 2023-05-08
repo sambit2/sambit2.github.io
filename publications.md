@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  EdTech Doctor
+title:  AI in EdTech Doctor
 subtitle: Where have I published?
 css: "/css/index.css"
 bigimg:
