@@ -37,7 +37,7 @@ I can also be found on <a href="https://scholar.google.nl/citations?user=Yixrh9s
 
 ## 2023
 <img src="../img/book-chapter.png" height="20px">
-**[B2]** **Sambit Praharaj**, Maren Scheffel, Marcus Specht, Hendrik Drachsler. <a href="https://link.springer.com/chapter/10.1007/978-3-031-30992-2_6">Measuring Collaboration Quality through Audio Data and Learning Analytics</a>, is published as a Book Chapter in the Book titled *<a href="https://link.springer.com/book/9783031309915">Unobtrusive Observations of Learning in Digital Environments</a>* by Springer in **June 2023**. This publication summarizes my PhD thesis in only 20 pages with directions for future research!
+**[B2]** **Sambit Praharaj**, Maren Scheffel, Marcus Specht, Hendrik Drachsler. <a href="https://link.springer.com/chapter/10.1007/978-3-031-30992-2_6">Measuring Collaboration Quality through Audio Data and Learning Analytics</a>, is published as a Book Chapter in the Book titled *<a href="https://link.springer.com/book/9783031309915">Unobtrusive Observations of Learning in Digital Environments</a>* by Springer in **June 2023**. This publication summarizes my PhD thesis in only 20 pages with directions for future research! [[PDF Preprint→]](../documents/publicatins/2023BookChapterPreprint.pdf)
 
 ## 2022
 <img src="../img/conference-paper.png" height="20px">
